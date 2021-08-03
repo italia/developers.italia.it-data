@@ -70,7 +70,7 @@ def fetch_teams(org)
 
     # Only get the fields we use in the frontend, so we don't end up
     # cluttering the history for fields we don't even use.
-    team['members'] = members.map { |m| fetch(m['url']).slice('login', 'avatar_url', 'html_url') }
+    team['members'] = members.map { |m| fetch(m['url']).slice('login', 'name', 'avatar_url', 'html_url') }
 
     team
   end
