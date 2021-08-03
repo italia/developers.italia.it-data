@@ -1,0 +1,394 @@
+---
+- name: 18app
+  id: 2539345
+  node_id: MDQ6VGVhbTI1MzkzNDU=
+  slug: 18app
+  description: ''
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/2539345
+  html_url: https://github.com/orgs/italia/teams/18app
+  members_url: https://api.github.com/organizations/15377824/team/2539345/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/2539345/repos
+  permission: pull
+  parent: 
+  members:
+  - login: alranel
+    name: Alessandro Ranellucci
+    avatar_url: https://avatars.githubusercontent.com/u/594957?v=4
+    html_url: https://github.com/alranel
+- name: ANPR
+  id: 2263028
+  node_id: MDQ6VGVhbTIyNjMwMjg=
+  slug: anpr
+  description: I maintainer di ANPR
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/2263028
+  html_url: https://github.com/orgs/italia/teams/anpr
+  members_url: https://api.github.com/organizations/15377824/team/2263028/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/2263028/repos
+  permission: pull
+  parent: 
+  members:
+  - login: mccalv
+    name: Mirko Calvaresi
+    avatar_url: https://avatars.githubusercontent.com/u/1814818?v=4
+    html_url: https://github.com/mccalv
+  - login: marcocipri
+    name: marco cipri
+    avatar_url: https://avatars.githubusercontent.com/u/5989506?v=4
+    html_url: https://github.com/marcocipri
+- name: CIE
+  id: 2546078
+  node_id: MDQ6VGVhbTI1NDYwNzg=
+  slug: cie
+  description: I project leader di CIE
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/2546078
+  html_url: https://github.com/orgs/italia/teams/cie
+  members_url: https://api.github.com/organizations/15377824/team/2546078/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/2546078/repos
+  permission: pull
+  parent: 
+  members:
+  - login: alranel
+    name: Alessandro Ranellucci
+    avatar_url: https://avatars.githubusercontent.com/u/594957?v=4
+    html_url: https://github.com/alranel
+  - login: valeriopaolini
+    name: Valerio Paolini
+    avatar_url: https://avatars.githubusercontent.com/u/729301?v=4
+    html_url: https://github.com/valeriopaolini
+  - login: andemaria
+    name: Andrea De Maria
+    avatar_url: https://avatars.githubusercontent.com/u/26910179?v=4
+    html_url: https://github.com/andemaria
+  - login: aantetomaso
+    name: Antonio Antetomaso
+    avatar_url: https://avatars.githubusercontent.com/u/26916895?v=4
+    html_url: https://github.com/aantetomaso
+  - login: fottavi
+    name: Fabio Ottavi
+    avatar_url: https://avatars.githubusercontent.com/u/26923305?v=4
+    html_url: https://github.com/fottavi
+- name: Cloud
+  id: 3027292
+  node_id: MDQ6VGVhbTMwMjcyOTI=
+  slug: cloud
+  description: Cloud & Data center team
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/3027292
+  html_url: https://github.com/orgs/italia/teams/cloud
+  members_url: https://api.github.com/organizations/15377824/team/3027292/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/3027292/repos
+  permission: pull
+  parent: 
+  members:
+  - login: luciopileggi
+    name: Lucio Pileggi
+    avatar_url: https://avatars.githubusercontent.com/u/265532?v=4
+    html_url: https://github.com/luciopileggi
+  - login: paolo-de-rosa
+    name: Paolo de Rosa
+    avatar_url: https://avatars.githubusercontent.com/u/569002?v=4
+    html_url: https://github.com/paolo-de-rosa
+- name: DAF
+  id: 2491394
+  node_id: MDQ6VGVhbTI0OTEzOTQ=
+  slug: daf
+  description: Maintainers of Data & Analytics Framework (DAF)
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/2491394
+  html_url: https://github.com/orgs/italia/teams/daf
+  members_url: https://api.github.com/organizations/15377824/team/2491394/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/2491394/repos
+  permission: pull
+  parent: 
+  members:
+  - login: jenkin
+    name: Alessio Cimarelli
+    avatar_url: https://avatars.githubusercontent.com/u/426495?v=4
+    html_url: https://github.com/jenkin
+  - login: gruggiero
+    name: Giovanni Ruggiero
+    avatar_url: https://avatars.githubusercontent.com/u/667101?v=4
+    html_url: https://github.com/gruggiero
+  - login: mariaclaudia
+    name: Maria Claudia Bodino
+    avatar_url: https://avatars.githubusercontent.com/u/1733135?v=4
+    html_url: https://github.com/mariaclaudia
+  - login: giux78
+    name: Alessandro Ercolani
+    avatar_url: https://avatars.githubusercontent.com/u/2806256?v=4
+    html_url: https://github.com/giux78
+  - login: axcarlin
+    name: Andrea Carlini
+    avatar_url: https://avatars.githubusercontent.com/u/47884082?v=4
+    html_url: https://github.com/axcarlin
+- name: datigov
+  id: 3127970
+  node_id: MDQ6VGVhbTMxMjc5NzA=
+  slug: datigov
+  description: dati.gov.it
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/3127970
+  html_url: https://github.com/orgs/italia/teams/datigov
+  members_url: https://api.github.com/organizations/15377824/team/3127970/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/3127970/repos
+  permission: pull
+  parent: 
+  members:
+  - login: giorgialodi
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/24624577?v=4
+    html_url: https://github.com/giorgialodi
+- name: Design
+  id: 2374583
+  node_id: MDQ6VGVhbTIzNzQ1ODM=
+  slug: design
+  description: Maintainers of the Italia Design
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/2374583
+  html_url: https://github.com/orgs/italia/teams/design
+  members_url: https://api.github.com/organizations/15377824/team/2374583/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/2374583/repos
+  permission: pull
+  parent: 
+  members:
+  - login: gunzip
+    name: Danilo Spinelli
+    avatar_url: https://avatars.githubusercontent.com/u/148224?v=4
+    html_url: https://github.com/gunzip
+  - login: francescozaia
+    name: Francesco Zaia
+    avatar_url: https://avatars.githubusercontent.com/u/481084?v=4
+    html_url: https://github.com/francescozaia
+  - login: matteodesanti
+    name: Matteo De Santi
+    avatar_url: https://avatars.githubusercontent.com/u/8171284?v=4
+    html_url: https://github.com/matteodesanti
+  - login: sbronzolo
+    name: Lorenzo Fabbri
+    avatar_url: https://avatars.githubusercontent.com/u/24827270?v=4
+    html_url: https://github.com/sbronzolo
+- name: Developers
+  id: 2539353
+  node_id: MDQ6VGVhbTI1MzkzNTM=
+  slug: developers
+  description: Maintainers of the developer community
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/2539353
+  html_url: https://github.com/orgs/italia/teams/developers
+  members_url: https://api.github.com/organizations/15377824/team/2539353/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/2539353/repos
+  permission: pull
+  parent: 
+  members:
+  - login: ruphy
+    name: Riccardo Iaconelli
+    avatar_url: https://avatars.githubusercontent.com/u/2030?v=4
+    html_url: https://github.com/ruphy
+  - login: astagi
+    name: Andrea Stagi
+    avatar_url: https://avatars.githubusercontent.com/u/537363?v=4
+    html_url: https://github.com/astagi
+  - login: alranel
+    name: Alessandro Ranellucci
+    avatar_url: https://avatars.githubusercontent.com/u/594957?v=4
+    html_url: https://github.com/alranel
+  - login: bfabio
+    name: Fabio Bonelli
+    avatar_url: https://avatars.githubusercontent.com/u/788293?v=4
+    html_url: https://github.com/bfabio
+  - login: mfortini
+    name: Matteo Fortini
+    avatar_url: https://avatars.githubusercontent.com/u/1104926?v=4
+    html_url: https://github.com/mfortini
+  - login: sebbalex
+    name: Alessandro Sebastiani
+    avatar_url: https://avatars.githubusercontent.com/u/11008116?v=4
+    html_url: https://github.com/sebbalex
+  - login: libremente
+    name: libremente
+    avatar_url: https://avatars.githubusercontent.com/u/25111463?v=4
+    html_url: https://github.com/libremente
+- name: DevOps
+  id: 3127975
+  node_id: MDQ6VGVhbTMxMjc5NzU=
+  slug: devops
+  description: ''
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/3127975
+  html_url: https://github.com/orgs/italia/teams/devops
+  members_url: https://api.github.com/organizations/15377824/team/3127975/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/3127975/repos
+  permission: pull
+  parent: 
+  members:
+  - login: paolo-de-rosa
+    name: Paolo de Rosa
+    avatar_url: https://avatars.githubusercontent.com/u/569002?v=4
+    html_url: https://github.com/paolo-de-rosa
+  - login: berez23
+    name: Andrea Ceresoni
+    avatar_url: https://avatars.githubusercontent.com/u/6069293?v=4
+    html_url: https://github.com/berez23
+- name: Docs Italia
+  id: 2541934
+  node_id: MDQ6VGVhbTI1NDE5MzQ=
+  slug: docs-italia
+  description: Maintainers of the Docs Italia project
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/2541934
+  html_url: https://github.com/orgs/italia/teams/docs-italia
+  members_url: https://api.github.com/organizations/15377824/team/2541934/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/2541934/repos
+  permission: pull
+  parent: 
+  members:
+  - login: francescozaia
+    name: Francesco Zaia
+    avatar_url: https://avatars.githubusercontent.com/u/481084?v=4
+    html_url: https://github.com/francescozaia
+  - login: pauloxnet
+    name: Paolo Melchiorre
+    avatar_url: https://avatars.githubusercontent.com/u/521097?v=4
+    html_url: https://github.com/pauloxnet
+  - login: pdavide
+    name: Davide Porrovecchio
+    avatar_url: https://avatars.githubusercontent.com/u/9119858?v=4
+    html_url: https://github.com/pdavide
+  - login: mamatteo
+    name: Matteo Troìa
+    avatar_url: https://avatars.githubusercontent.com/u/13586012?v=4
+    html_url: https://github.com/mamatteo
+  - login: sbronzolo
+    name: Lorenzo Fabbri
+    avatar_url: https://avatars.githubusercontent.com/u/24827270?v=4
+    html_url: https://github.com/sbronzolo
+- name: IO
+  id: 3127979
+  node_id: MDQ6VGVhbTMxMjc5Nzk=
+  slug: io
+  description: ''
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/3127979
+  html_url: https://github.com/orgs/italia/teams/io
+  members_url: https://api.github.com/organizations/15377824/team/3127979/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/3127979/repos
+  permission: pull
+  parent: 
+  members:
+  - login: cloudify
+    name: Federico Feroldi
+    avatar_url: https://avatars.githubusercontent.com/u/48206?v=4
+    html_url: https://github.com/cloudify
+  - login: matteodesanti
+    name: Matteo De Santi
+    avatar_url: https://avatars.githubusercontent.com/u/8171284?v=4
+    html_url: https://github.com/matteodesanti
+- name: PagoPA
+  id: 2513878
+  node_id: MDQ6VGVhbTI1MTM4Nzg=
+  slug: pagopa
+  description: ''
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/2513878
+  html_url: https://github.com/orgs/italia/teams/pagopa
+  members_url: https://api.github.com/organizations/15377824/team/2513878/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/2513878/repos
+  permission: pull
+  parent: 
+  members:
+  - login: cloudify
+    name: Federico Feroldi
+    avatar_url: https://avatars.githubusercontent.com/u/48206?v=4
+    html_url: https://github.com/cloudify
+  - login: giuseppevirgone
+    name: Giuseppe Virgone
+    avatar_url: https://avatars.githubusercontent.com/u/30597088?v=4
+    html_url: https://github.com/giuseppevirgone
+  - login: gammam
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/42178449?v=4
+    html_url: https://github.com/gammam
+- name: pagoPA-SIA
+  id: 3407974
+  node_id: MDQ6VGVhbTM0MDc5NzQ=
+  slug: pagopa-sia
+  description: ''
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/3407974
+  html_url: https://github.com/orgs/italia/teams/pagopa-sia
+  members_url: https://api.github.com/organizations/15377824/team/3407974/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/3407974/repos
+  permission: pull
+  parent: 
+  members:
+  - login: alranel
+    name: Alessandro Ranellucci
+    avatar_url: https://avatars.githubusercontent.com/u/594957?v=4
+    html_url: https://github.com/alranel
+  - login: sorrentinoamato-sia
+    name: Amato Sorrentino
+    avatar_url: https://avatars.githubusercontent.com/u/50325673?v=4
+    html_url: https://github.com/sorrentinoamato-sia
+- name: report-vaccini-commissario-covid19
+  id: 4421832
+  node_id: MDQ6VGVhbTQ0MjE4MzI=
+  slug: report-vaccini-commissario-covid19
+  description: ''
+  privacy: secret
+  url: https://api.github.com/organizations/15377824/team/4421832
+  html_url: https://github.com/orgs/italia/teams/report-vaccini-commissario-covid19
+  members_url: https://api.github.com/organizations/15377824/team/4421832/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/4421832/repos
+  permission: pull
+  parent: 
+  members:
+  - login: libremente
+    name: libremente
+    avatar_url: https://avatars.githubusercontent.com/u/25111463?v=4
+    html_url: https://github.com/libremente
+- name: Security
+  id: 2539356
+  node_id: MDQ6VGVhbTI1MzkzNTY=
+  slug: security
+  description: ''
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/2539356
+  html_url: https://github.com/orgs/italia/teams/security
+  members_url: https://api.github.com/organizations/15377824/team/2539356/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/2539356/repos
+  permission: pull
+  parent: 
+  members:
+  - login: paolo-de-rosa
+    name: Paolo de Rosa
+    avatar_url: https://avatars.githubusercontent.com/u/569002?v=4
+    html_url: https://github.com/paolo-de-rosa
+- name: SPID
+  id: 2539388
+  node_id: MDQ6VGVhbTI1MzkzODg=
+  slug: spid
+  description: This team includes the Community Leaders of SPID within Developers
+    Italia
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/2539388
+  html_url: https://github.com/orgs/italia/teams/spid
+  members_url: https://api.github.com/organizations/15377824/team/2539388/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/2539388/repos
+  permission: pull
+  parent: 
+  members:
+  - login: alranel
+    name: Alessandro Ranellucci
+    avatar_url: https://avatars.githubusercontent.com/u/594957?v=4
+    html_url: https://github.com/alranel
+  - login: peppelinux
+    name: Giuseppe De Marco
+    avatar_url: https://avatars.githubusercontent.com/u/1297620?v=4
+    html_url: https://github.com/peppelinux
+  - login: damikael
+    name: Michele D'Amico
+    avatar_url: https://avatars.githubusercontent.com/u/31276401?v=4
+    html_url: https://github.com/damikael
