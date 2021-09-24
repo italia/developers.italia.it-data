@@ -91,39 +91,6 @@
     name: Paolo de Rosa
     avatar_url: https://avatars.githubusercontent.com/u/569002?v=4
     html_url: https://github.com/paolo-de-rosa
-- name: DAF
-  id: 2491394
-  node_id: MDQ6VGVhbTI0OTEzOTQ=
-  slug: daf
-  description: Maintainers of Data & Analytics Framework (DAF)
-  privacy: closed
-  url: https://api.github.com/organizations/15377824/team/2491394
-  html_url: https://github.com/orgs/italia/teams/daf
-  members_url: https://api.github.com/organizations/15377824/team/2491394/members{/member}
-  repositories_url: https://api.github.com/organizations/15377824/team/2491394/repos
-  permission: pull
-  parent: 
-  members:
-  - login: jenkin
-    name: Alessio Cimarelli
-    avatar_url: https://avatars.githubusercontent.com/u/426495?v=4
-    html_url: https://github.com/jenkin
-  - login: gruggiero
-    name: Giovanni Ruggiero
-    avatar_url: https://avatars.githubusercontent.com/u/667101?v=4
-    html_url: https://github.com/gruggiero
-  - login: mariaclaudia
-    name: Maria Claudia Bodino
-    avatar_url: https://avatars.githubusercontent.com/u/1733135?v=4
-    html_url: https://github.com/mariaclaudia
-  - login: giux78
-    name: Alessandro Ercolani
-    avatar_url: https://avatars.githubusercontent.com/u/2806256?v=4
-    html_url: https://github.com/giux78
-  - login: axcarlin
-    name: Andrea Carlini
-    avatar_url: https://avatars.githubusercontent.com/u/47884082?v=4
-    html_url: https://github.com/axcarlin
 - name: datigov
   id: 3127970
   node_id: MDQ6VGVhbTMxMjc5NzA=
@@ -286,6 +253,31 @@
     name: Matteo De Santi
     avatar_url: https://avatars.githubusercontent.com/u/8171284?v=4
     html_url: https://github.com/matteodesanti
+- name: National Data Catalog (NDC)
+  id: 2491394
+  node_id: MDQ6VGVhbTI0OTEzOTQ=
+  slug: national-data-catalog-ndc
+  description: Maintainers of National Data Catalog (NDC)
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/2491394
+  html_url: https://github.com/orgs/italia/teams/national-data-catalog-ndc
+  members_url: https://api.github.com/organizations/15377824/team/2491394/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/2491394/repos
+  permission: pull
+  parent: 
+  members:
+  - login: mfortini
+    name: Matteo Fortini
+    avatar_url: https://avatars.githubusercontent.com/u/1104926?v=4
+    html_url: https://github.com/mfortini
+  - login: ioggstream
+    name: Roberto Polli
+    avatar_url: https://avatars.githubusercontent.com/u/1140844?v=4
+    html_url: https://github.com/ioggstream
+  - login: spuliz
+    name: Saverio Pulizzi
+    avatar_url: https://avatars.githubusercontent.com/u/15948985?v=4
+    html_url: https://github.com/spuliz
 - name: PagoPA
   id: 2513878
   node_id: MDQ6VGVhbTI1MTM4Nzg=
