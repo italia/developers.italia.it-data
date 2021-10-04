@@ -90,6 +90,14 @@ def fetch_issues(repos)
 
       labels = issue['labels'].map { |label| label['name'] }
 
+      # XXX: ugly hack: issue can have just one type, but we treat issues label
+      # with "Hacktoberfest" as a new type because of the limits of the UI implementation.
+      #
+      # Let's have "Hacktoberfest" issues take precedence over "bug" whenever a
+      # certain issue has both the labels ("Hacktoberfest" being capitalized comes before
+      # uncapitalized labels)
+      labels = labels.sort
+
       # Only get the issues marked with at least one label in ONLY_WITH_LABEL
       next unless labels.any? { |item| ONLY_WITH_LABEL.include? item }
 
