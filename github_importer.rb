@@ -10,10 +10,6 @@ require 'yaml'
 # Export from these organizations
 ORGS = %w[teamdigitale italia].freeze
 
-# Project's prefixes we can translate to a user friendly string in the UI.
-# See todo_projects_dict in _data/l10n.yml.
-PROJECS_PREFIX = %w[bootstrap- spid- 18app anpr- daf- dati- pianotriennale- lg- design- security- cie-].freeze
-
 # List of technologies shown in the UI
 TECH_LIST = %w[
   angular react design html arduino bootstrap frontend
@@ -117,16 +113,6 @@ def fetch_issues(repos)
       # get displayed in the UI.
       issue_data['labels'].reject! { |label| ONLY_WITH_LABEL.include? label }
 
-      # Set the main project name.
-      # The user facing strings are translated in _data/l10n.yml.
-      prefix = PROJECS_PREFIX.find { |p| repo['name'].start_with?(p) }
-      issue_data['project'] = if prefix
-                                prefix.tr('-', '')
-                              elsif repo['name'] =~ /.italia.it|\.gov.it|\.governo\.it/
-                                'website'
-                              else
-                                'other'
-                              end
       github_issues.push(issue_data)
     end
   end
