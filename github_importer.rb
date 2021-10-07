@@ -160,7 +160,7 @@ repos = ORGS.map do |org|
       accept: 'application/vnd.github.mercy-preview+json'
     }
   )
-end.flatten
+end.flatten.reject { |r| r['archived'] || r['disabled'] }
 puts "Got #{repos.size} GitHub repos"
 
 github_issues = fetch_issues(repos)
