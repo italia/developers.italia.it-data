@@ -32,7 +32,7 @@ BLACKLISTED_REPOS = [].freeze
 
 GH_ACCESS_TOKEN = ENV.fetch('GH_ACCESS_TOKEN', '')
 
-SAVE_TO_REPO = "bfabio/developers.italia.it-data"
+SAVE_TO_REPO = "italia/developers.italia.it-data"
 
 def fetch(url, headers = {})
   rest_params = {
