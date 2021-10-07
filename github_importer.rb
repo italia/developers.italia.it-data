@@ -12,7 +12,7 @@ ORGS = %w[teamdigitale italia].freeze
 
 # Project's prefixes we can translate to a user friendly string in the UI.
 # See todo_projects_dict in _data/l10n.yml.
-PROJECS_PREFIX = %w[spid- 18app anpr- daf- dati- pianotriennale- lg- design- security- cie-].freeze
+PROJECS_PREFIX = %w[bootstrap- spid- 18app anpr- daf- dati- pianotriennale- lg- design- security- cie-].freeze
 
 # List of technologies shown in the UI
 TECH_LIST = %w[
