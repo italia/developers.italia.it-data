@@ -232,6 +232,23 @@
     name: Lorenzo Fabbri
     avatar_url: https://avatars.githubusercontent.com/u/24827270?v=4
     html_url: https://github.com/sbronzolo
+- name: google-cloud-team
+  id: 5411294
+  node_id: T_kwDOAOqloM4AUpHe
+  slug: google-cloud-team
+  description: ''
+  privacy: secret
+  url: https://api.github.com/organizations/15377824/team/5411294
+  html_url: https://github.com/orgs/italia/teams/google-cloud-team
+  members_url: https://api.github.com/organizations/15377824/team/5411294/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/5411294/repos
+  permission: pull
+  parent: 
+  members:
+  - login: sebbalex
+    name: Alessandro Sebastiani
+    avatar_url: https://avatars.githubusercontent.com/u/11008116?v=4
+    html_url: https://github.com/sebbalex
 - name: IO
   id: 3127979
   node_id: MDQ6VGVhbTMxMjc5Nzk=
