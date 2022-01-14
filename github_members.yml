@@ -935,6 +935,24 @@
   received_events_url: https://api.github.com/users/pnicolli/received_events
   type: User
   site_admin: false
+- login: psmiraglia
+  id: 921247
+  node_id: MDQ6VXNlcjkyMTI0Nw==
+  avatar_url: https://avatars.githubusercontent.com/u/921247?v=4
+  gravatar_id: ''
+  url: https://api.github.com/users/psmiraglia
+  html_url: https://github.com/psmiraglia
+  followers_url: https://api.github.com/users/psmiraglia/followers
+  following_url: https://api.github.com/users/psmiraglia/following{/other_user}
+  gists_url: https://api.github.com/users/psmiraglia/gists{/gist_id}
+  starred_url: https://api.github.com/users/psmiraglia/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/psmiraglia/subscriptions
+  organizations_url: https://api.github.com/users/psmiraglia/orgs
+  repos_url: https://api.github.com/users/psmiraglia/repos
+  events_url: https://api.github.com/users/psmiraglia/events{/privacy}
+  received_events_url: https://api.github.com/users/psmiraglia/received_events
+  type: User
+  site_admin: false
 - login: rasky
   id: 1014109
   node_id: MDQ6VXNlcjEwMTQxMDk=
