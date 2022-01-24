@@ -161,6 +161,24 @@
   received_events_url: https://api.github.com/users/alranel/received_events
   type: User
   site_admin: false
+- login: alterat
+  id: 19559470
+  node_id: MDQ6VXNlcjE5NTU5NDcw
+  avatar_url: https://avatars.githubusercontent.com/u/19559470?v=4
+  gravatar_id: ''
+  url: https://api.github.com/users/alterat
+  html_url: https://github.com/alterat
+  followers_url: https://api.github.com/users/alterat/followers
+  following_url: https://api.github.com/users/alterat/following{/other_user}
+  gists_url: https://api.github.com/users/alterat/gists{/gist_id}
+  starred_url: https://api.github.com/users/alterat/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/alterat/subscriptions
+  organizations_url: https://api.github.com/users/alterat/orgs
+  repos_url: https://api.github.com/users/alterat/repos
+  events_url: https://api.github.com/users/alterat/events{/privacy}
+  received_events_url: https://api.github.com/users/alterat/received_events
+  type: User
+  site_admin: false
 - login: amusarra
   id: 708110
   node_id: MDQ6VXNlcjcwODExMA==
@@ -195,24 +213,6 @@
   repos_url: https://api.github.com/users/astagi/repos
   events_url: https://api.github.com/users/astagi/events{/privacy}
   received_events_url: https://api.github.com/users/astagi/received_events
-  type: User
-  site_admin: false
-- login: atorin
-  id: 19559470
-  node_id: MDQ6VXNlcjE5NTU5NDcw
-  avatar_url: https://avatars.githubusercontent.com/u/19559470?v=4
-  gravatar_id: ''
-  url: https://api.github.com/users/atorin
-  html_url: https://github.com/atorin
-  followers_url: https://api.github.com/users/atorin/followers
-  following_url: https://api.github.com/users/atorin/following{/other_user}
-  gists_url: https://api.github.com/users/atorin/gists{/gist_id}
-  starred_url: https://api.github.com/users/atorin/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/atorin/subscriptions
-  organizations_url: https://api.github.com/users/atorin/orgs
-  repos_url: https://api.github.com/users/atorin/repos
-  events_url: https://api.github.com/users/atorin/events{/privacy}
-  received_events_url: https://api.github.com/users/atorin/received_events
   type: User
   site_admin: false
 - login: aymen94
