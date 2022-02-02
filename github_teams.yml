@@ -91,6 +91,23 @@
     name: Paolo de Rosa
     avatar_url: https://avatars.githubusercontent.com/u/569002?v=4
     html_url: https://github.com/paolo-de-rosa
+- name: cloud-microsoft-team
+  id: 5631204
+  node_id: T_kwDOAOqloM4AVezk
+  slug: cloud-microsoft-team
+  description: ''
+  privacy: secret
+  url: https://api.github.com/organizations/15377824/team/5631204
+  html_url: https://github.com/orgs/italia/teams/cloud-microsoft-team
+  members_url: https://api.github.com/organizations/15377824/team/5631204/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/5631204/repos
+  permission: pull
+  parent: 
+  members:
+  - login: sebbalex
+    name: Alessandro Sebastiani
+    avatar_url: https://avatars.githubusercontent.com/u/11008116?v=4
+    html_url: https://github.com/sebbalex
 - name: datigov
   id: 3127970
   node_id: MDQ6VGVhbTMxMjc5NzA=
