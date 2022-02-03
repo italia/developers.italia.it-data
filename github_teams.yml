@@ -306,6 +306,10 @@
     name: 
     avatar_url: https://avatars.githubusercontent.com/u/95348583?v=4
     html_url: https://github.com/sbellucc
+  - login: dptdgi
+    name: Daniele Pizzolli
+    avatar_url: https://avatars.githubusercontent.com/u/98891499?v=4
+    html_url: https://github.com/dptdgi
 - name: IO
   id: 3127979
   node_id: MDQ6VGVhbTMxMjc5Nzk=
