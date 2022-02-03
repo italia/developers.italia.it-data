@@ -104,10 +104,18 @@
   permission: pull
   parent: 
   members:
+  - login: MikeCer
+    name: Michele Cerreto
+    avatar_url: https://avatars.githubusercontent.com/u/1618166?v=4
+    html_url: https://github.com/MikeCer
   - login: sebbalex
     name: Alessandro Sebastiani
     avatar_url: https://avatars.githubusercontent.com/u/11008116?v=4
     html_url: https://github.com/sebbalex
+  - login: dptdgi
+    name: Daniele Pizzolli
+    avatar_url: https://avatars.githubusercontent.com/u/98891499?v=4
+    html_url: https://github.com/dptdgi
 - name: datigov
   id: 3127970
   node_id: MDQ6VGVhbTMxMjc5NzA=
