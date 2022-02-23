@@ -150,14 +150,6 @@
   permission: pull
   parent: 
   members:
-  - login: gunzip
-    name: Danilo Spinelli
-    avatar_url: https://avatars.githubusercontent.com/u/148224?v=4
-    html_url: https://github.com/gunzip
-  - login: francescozaia
-    name: Francesco Zaia
-    avatar_url: https://avatars.githubusercontent.com/u/481084?v=4
-    html_url: https://github.com/francescozaia
   - login: astagi
     name: Andrix
     avatar_url: https://avatars.githubusercontent.com/u/537363?v=4
@@ -170,18 +162,10 @@
     name: 'Daniele T. '
     avatar_url: https://avatars.githubusercontent.com/u/6736103?v=4
     html_url: https://github.com/Fupete
-  - login: matteodesanti
-    name: Matteo De Santi
-    avatar_url: https://avatars.githubusercontent.com/u/8171284?v=4
-    html_url: https://github.com/matteodesanti
   - login: danielaiozzo
     name: Daniela Iozzo
     avatar_url: https://avatars.githubusercontent.com/u/15343502?v=4
     html_url: https://github.com/danielaiozzo
-  - login: sbronzolo
-    name: Lorenzo Fabbri
-    avatar_url: https://avatars.githubusercontent.com/u/24827270?v=4
-    html_url: https://github.com/sbronzolo
 - name: Developers
   id: 2539353
   node_id: MDQ6VGVhbTI1MzkzNTM=
