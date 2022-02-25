@@ -104,6 +104,10 @@
   permission: pull
   parent: 
   members:
+  - login: lorello
+    name: LoreLLo
+    avatar_url: https://avatars.githubusercontent.com/u/694058?v=4
+    html_url: https://github.com/lorello
   - login: sebbalex
     name: Alessandro Sebastiani
     avatar_url: https://avatars.githubusercontent.com/u/11008116?v=4
