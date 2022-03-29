@@ -1,0 +1,66 @@
+[
+    {
+        "slug": "gitlab",
+        "providers": {
+            "cloud-amazon": {
+                "docker-compose": {
+                    "name": "Docker",
+                    "description": "desc"
+                },
+                "single_tier": {
+                    "deploy_url": "https://gitlab.it",
+                    "demo": "https://gitlab.it",
+                    "monthly_cost": "5 dollars",
+                    "op_level": 4
+                },
+                "multi_tier": {
+                    "deploy_url": "https://gitlab.com",
+                    "demo": "https://gitlab.com",
+                    "monthly_cost": "3 dollars",
+                    "op_level": 4
+                }
+            }
+        }
+    },
+    {
+        "slug": "sigla",
+        "providers": {
+            "cloud-amazon": {
+                "docker-compose": {
+                    "name": "Docker",
+                    "description": "desc"
+                },
+                "single_tier": {
+                    "deploy_url": "https://developersitalia.it",
+                    "demo": "https://developersitalia.it",
+                    "monthly_cost": "35 dollars",
+                    "op_level": 2
+                },
+                "multi_tier": {
+                    "deploy_url": "https://amazon.com",
+                    "demo": "https://amazon.com",
+                    "monthly_cost": "15 dollars",
+                    "op_level": 2
+                }
+            },
+            "cloud-google": {
+                "docker-compose": {
+                    "name": "Docker",
+                    "description": "desc"
+                },
+                "single_tier": {
+                    "deploy_url": "https://developersitalia.it",
+                    "demo": "https://developersitalia.it",
+                    "monthly_cost": "32 dollars",
+                    "op_level": 2
+                },
+                "multi_tier": {
+                    "deploy_url": "https://google.com",
+                    "demo": "https://google.com",
+                    "monthly_cost": "12 dollars",
+                    "op_level": 5
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,23 @@
+{
+    "slug": "gitlab",
+    "providers": {
+        "cloud-amazon": {
+            "docker-compose": {
+                "name": "Docker",
+                "description": "desc"
+            },
+            "single_tier": {
+                "deploy_url": "https://gitlab.it",
+                "demo": "https://gitlab.it",
+                "monthly_cost": "5 dollars",
+                "op_level": 4
+            },
+            "multi_tier": {
+                "deploy_url": "https://gitlab.com",
+                "demo": "https://gitlab.com",
+                "monthly_cost": "3 dollars",
+                "op_level": 4
+            }
+        }
+    }
+}
