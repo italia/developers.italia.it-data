@@ -69,10 +69,12 @@ def fetch_providers():
                 )
             print("Done!")
 
+    softwares_collection = []
     for software_name, software_data in softwares.items():
-        _write_json_file(
-            software_name, {"name": software_name, "data": {**software_data}}
-        )
+        software = {"slug": software_name, **software_data}
+        _write_json_file(software_name, software)
+        softwares_collection.append(software)
+    _write_json_file("all", softwares_collection)
 
 
 fetch_providers()
