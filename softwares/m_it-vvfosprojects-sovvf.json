@@ -1,0 +1,29 @@
+{
+    "slug": "m_it-vvfosprojects-sovvf",
+    "providers": {
+        "cloud-amazon": {
+            "single_tier": {
+                "deploy_url": "https://www.vigilfuoco.it/",
+                "demo": "https://gitlab.it",
+                "op_level": 4
+            },
+            "multi_tier": {
+                "deploy_url": "https://www.vigilfuoco.it/",
+                "demo": "https://www.vigilfuoco.it/",
+                "op_level": 4
+            }
+        },
+        "cloud-google": {
+            "single_tier": {
+                "deploy_url": "https://vvff.it",
+                "demo": "https://vvff.it",
+                "op_level": 4
+            },
+            "multi_tier": {
+                "deploy_url": "https://vvff.it",
+                "demo": "https://vvff.it",
+                "op_level": 4
+            }
+        }
+    }
+}
