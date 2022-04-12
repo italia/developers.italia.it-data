@@ -6,11 +6,11 @@
                 "single_tier": {
                     "generic_description": {
                         "en": "My role included **supervising** the marketing team and leading **publicity**.\n",
-                        "it": "## Template Single Tier\nPuoi eseguire la soluzione {{include.page.publiccode.name}} in base al consumo, avviandola e interrompendola a livello di codice. Questa soluzione è preconfigurata e pronta per l'uso su una qualsiasi delle piattaforme seguenti.\n- Distribuisci rapidamente le tue applicazioni nel cloud e rendile disponibili online - Pagamento a consumo, paghi solo per le risorse che utilizzi\n"
+                        "it": "### Template Single Tier\nPuoi eseguire la soluzione {{include.page.publiccode.name}} in base al consumo, avviandola e interrompendola a livello di codice. Questa soluzione è preconfigurata e pronta per l'uso su una qualsiasi delle piattaforme seguenti.\n- Distribuisci rapidamente le tue applicazioni nel cloud e rendile disponibili online\n- Pagamento a consumo, paghi solo per le risorse che utilizzi\n"
                     },
                     "launch_description": {
                         "en": "My role included **supervising** the marketing team and leading **publicity**.\n",
-                        "it": "## Lancia un template Single Tier\nScegli una piattaforma tra quelle proposte per lanciare un template Single Tier che si adatti alle tue esigenze.\n"
+                        "it": "### Lancia un template Single Tier\nScegli una piattaforma tra quelle proposte per lanciare un template Single Tier che si adatti alle tue esigenze.\n"
                     },
                     "links": [
                         {
