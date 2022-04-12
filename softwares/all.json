@@ -6,11 +6,11 @@
                 "single_tier": {
                     "generic_description": {
                         "en": "My role included **supervising** the marketing team and leading **publicity**.\n",
-                        "it": "Il mio ruolo includeva la **supervisione** del team di marketing e la guida della **pubblicità**.\n"
+                        "it": "## Template Single Tier\nPuoi eseguire la soluzione {{include.page.publiccode.name}} in base al consumo, avviandola e interrompendola a livello di codice. Questa soluzione è preconfigurata e pronta per l'uso su una qualsiasi delle piattaforme seguenti.\n- Distribuisci rapidamente le tue applicazioni nel cloud e rendile disponibili online - Pagamento a consumo, paghi solo per le risorse che utilizzi\n"
                     },
                     "launch_description": {
                         "en": "My role included **supervising** the marketing team and leading **publicity**.\n",
-                        "it": "Il mio ruolo includeva la **supervisione** del team di marketing e la guida della **pubblicità**.\n"
+                        "it": "## Lancia un template Single Tier\nScegli una piattaforma tra quelle proposte per lanciare un template Single Tier che si adatti alle tue esigenze.\n"
                     },
                     "links": [
                         {
@@ -63,11 +63,13 @@
             },
             "cloud-amazon": {
                 "single_tier": {
+                    "solution_name": "AWS",
                     "deploy_url": "https://www.vigilfuoco.it/",
                     "demo": "https://gitlab.it",
                     "op_level": 4
                 },
                 "multi_tier": {
+                    "solution_name": "AWS",
                     "deploy_url": "https://www.vigilfuoco.it/",
                     "demo": "https://www.vigilfuoco.it/",
                     "op_level": 4
@@ -80,11 +82,13 @@
             },
             "cloud-google": {
                 "single_tier": {
+                    "solution_name": "Google Cloud",
                     "deploy_url": "https://vvff.it",
                     "demo": "https://vvff.it",
                     "op_level": 4
                 },
                 "multi_tier": {
+                    "solution_name": "Google Cloud",
                     "deploy_url": "https://vvff.it",
                     "demo": "https://vvff.it",
                     "op_level": 4
