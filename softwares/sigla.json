@@ -2,10 +2,6 @@
     "slug": "sigla",
     "providers": {
         "cloud-amazon": {
-            "docker-compose": {
-                "name": "Docker",
-                "description": "desc"
-            },
             "single_tier": {
                 "deploy_url": "https://developersitalia.it",
                 "demo": "https://developersitalia.it",
@@ -20,10 +16,6 @@
             }
         },
         "cloud-google": {
-            "docker-compose": {
-                "name": "Docker",
-                "description": "desc"
-            },
             "single_tier": {
                 "deploy_url": "https://developersitalia.it",
                 "demo": "https://developersitalia.it",

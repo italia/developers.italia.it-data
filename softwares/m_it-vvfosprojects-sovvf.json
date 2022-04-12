@@ -1,6 +1,65 @@
 {
     "slug": "m_it-vvfosprojects-sovvf",
     "providers": {
+        "cloud-general": {
+            "single_tier": {
+                "generic_description": {
+                    "en": "My role included **supervising** the marketing team and leading **publicity**.\n",
+                    "it": "Il mio ruolo includeva la **supervisione** del team di marketing e la guida della **pubblicità**.\n"
+                },
+                "launch_description": {
+                    "en": "My role included **supervising** the marketing team and leading **publicity**.\n",
+                    "it": "Il mio ruolo includeva la **supervisione** del team di marketing e la guida della **pubblicità**.\n"
+                },
+                "links": [
+                    {
+                        "title": {
+                            "en": "Link 1",
+                            "it": "Collegamento 1"
+                        },
+                        "url": "/it/piattaforme"
+                    }
+                ]
+            },
+            "multi_tier": {
+                "generic_description": {
+                    "en": "My role included **supervising** the marketing team and leading **publicity**.\n",
+                    "it": "Il mio ruolo includeva la **supervisione** del team di marketing e la guida della **pubblicità**.\n"
+                },
+                "launch_description": {
+                    "en": "My role included **supervising** the marketing team and leading **publicity**.\n",
+                    "it": "Il mio ruolo includeva la **supervisione** del team di marketing e la guida della **pubblicità**.\n"
+                },
+                "links": [
+                    {
+                        "title": {
+                            "en": "Link 1",
+                            "it": "Collegamento 1"
+                        },
+                        "url": "/it/piattaforme"
+                    }
+                ]
+            },
+            "docker": {
+                "generic_description": {
+                    "en": "My role included **supervising** the marketing team and leading **publicity**.\n",
+                    "it": "Il mio ruolo includeva la **supervisione** del team di marketing e la guida della **pubblicità**.\n"
+                },
+                "launch_description": {
+                    "en": "My role included **supervising** the marketing team and leading **publicity**.\n",
+                    "it": "Il mio ruolo includeva la **supervisione** del team di marketing e la guida della **pubblicità**.\n"
+                },
+                "links": [
+                    {
+                        "title": {
+                            "en": "Link 1",
+                            "it": "Collegamento 1"
+                        },
+                        "url": "/it/piattaforme"
+                    }
+                ]
+            }
+        },
         "cloud-amazon": {
             "single_tier": {
                 "deploy_url": "https://www.vigilfuoco.it/",
@@ -11,6 +70,11 @@
                 "deploy_url": "https://www.vigilfuoco.it/",
                 "demo": "https://www.vigilfuoco.it/",
                 "op_level": 4
+            }
+        },
+        "cloud-local": {
+            "docker": {
+                "command": "docker-compose up"
             }
         },
         "cloud-google": {
