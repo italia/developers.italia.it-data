@@ -359,6 +359,24 @@
   received_events_url: https://api.github.com/users/damjack/received_events
   type: User
   site_admin: false
+- login: danielenole
+  id: 102873965
+  node_id: U_kgDOBiG7bQ
+  avatar_url: https://avatars.githubusercontent.com/u/102873965?v=4
+  gravatar_id: ''
+  url: https://api.github.com/users/danielenole
+  html_url: https://github.com/danielenole
+  followers_url: https://api.github.com/users/danielenole/followers
+  following_url: https://api.github.com/users/danielenole/following{/other_user}
+  gists_url: https://api.github.com/users/danielenole/gists{/gist_id}
+  starred_url: https://api.github.com/users/danielenole/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/danielenole/subscriptions
+  organizations_url: https://api.github.com/users/danielenole/orgs
+  repos_url: https://api.github.com/users/danielenole/repos
+  events_url: https://api.github.com/users/danielenole/events{/privacy}
+  received_events_url: https://api.github.com/users/danielenole/received_events
+  type: User
+  site_admin: false
 - login: danse
   id: 885935
   node_id: MDQ6VXNlcjg4NTkzNQ==
