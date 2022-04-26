@@ -236,6 +236,10 @@
     name: Giuseppe De Marco
     avatar_url: https://avatars.githubusercontent.com/u/1297620?v=4
     html_url: https://github.com/peppelinux
+  - login: LorenzoS92
+    name: Lorenzo
+    avatar_url: https://avatars.githubusercontent.com/u/5399264?v=4
+    html_url: https://github.com/LorenzoS92
   - login: sebbalex
     name: Alessandro Sebastiani
     avatar_url: https://avatars.githubusercontent.com/u/11008116?v=4
@@ -456,6 +460,39 @@
     name: libremente
     avatar_url: https://avatars.githubusercontent.com/u/25111463?v=4
     html_url: https://github.com/libremente
+- name: Reviewers
+  id: 5980822
+  node_id: T_kwDOAOqloM4AW0KW
+  slug: reviewers
+  description: ''
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/5980822
+  html_url: https://github.com/orgs/italia/teams/reviewers
+  members_url: https://api.github.com/organizations/15377824/team/5980822/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/5980822/repos
+  permission: pull
+  parent: 
+  members:
+  - login: astagi
+    name: Andrea Stagi
+    avatar_url: https://avatars.githubusercontent.com/u/537363?v=4
+    html_url: https://github.com/astagi
+  - login: bfabio
+    name: Fabio Bonelli
+    avatar_url: https://avatars.githubusercontent.com/u/788293?v=4
+    html_url: https://github.com/bfabio
+  - login: peppelinux
+    name: Giuseppe De Marco
+    avatar_url: https://avatars.githubusercontent.com/u/1297620?v=4
+    html_url: https://github.com/peppelinux
+  - login: LorenzoS92
+    name: Lorenzo
+    avatar_url: https://avatars.githubusercontent.com/u/5399264?v=4
+    html_url: https://github.com/LorenzoS92
+  - login: sebbalex
+    name: Alessandro Sebastiani
+    avatar_url: https://avatars.githubusercontent.com/u/11008116?v=4
+    html_url: https://github.com/sebbalex
 - name: Security
   id: 2539356
   node_id: MDQ6VGVhbTI1MzkzNTY=
