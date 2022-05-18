@@ -50,14 +50,6 @@
   permission: pull
   parent: 
   members:
-  - login: alranel
-    name: Alessandro Ranellucci
-    avatar_url: https://avatars.githubusercontent.com/u/594957?v=4
-    html_url: https://github.com/alranel
-  - login: valeriopaolini
-    name: Valerio Paolini
-    avatar_url: https://avatars.githubusercontent.com/u/729301?v=4
-    html_url: https://github.com/valeriopaolini
   - login: andemaria
     name: Andrea De Maria
     avatar_url: https://avatars.githubusercontent.com/u/26910179?v=4
@@ -524,10 +516,6 @@
   permission: pull
   parent: 
   members:
-  - login: alranel
-    name: Alessandro Ranellucci
-    avatar_url: https://avatars.githubusercontent.com/u/594957?v=4
-    html_url: https://github.com/alranel
   - login: peppelinux
     name: Giuseppe De Marco
     avatar_url: https://avatars.githubusercontent.com/u/1297620?v=4
