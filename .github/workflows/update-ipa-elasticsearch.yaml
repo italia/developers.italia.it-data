@@ -1,0 +1,22 @@
+on:
+  schedule:
+    - cron: '0 3 * * *'
+
+jobs:
+  # NOTE: this is the importer from the legacy publiccode-crawler,
+  # which always made the ElasticSearch index unavailable for
+  # the duration of the import - and so does this action.
+  update-indicepa-pec-elasticsearch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-go@v3
+        with:
+          go-version: 1.18.x
+      - run: >
+          cd ipa-to-elasticsearch &&
+          curl -L 'https://www.indicepa.gov.it/public-services/opendata-read-service.php?dstype=FS&filename=pec.txt' -o pec.txt
+          go run main.go
+        env:
+          ELASTIC_USER: elastic
+          ELASTIC_PWD: ${{ secrets.ELASTIC_PWD }}
