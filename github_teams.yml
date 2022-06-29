@@ -158,14 +158,14 @@
     name: 
     avatar_url: https://avatars.githubusercontent.com/u/24624577?v=4
     html_url: https://github.com/giorgialodi
-- name: Design
+- name: designers
   id: 2374583
   node_id: MDQ6VGVhbTIzNzQ1ODM=
-  slug: design
+  slug: designers
   description: Maintainers of the Italia Design
   privacy: closed
   url: https://api.github.com/organizations/15377824/team/2374583
-  html_url: https://github.com/orgs/italia/teams/design
+  html_url: https://github.com/orgs/italia/teams/designers
   members_url: https://api.github.com/organizations/15377824/team/2374583/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2374583/repos
   permission: pull
@@ -191,6 +191,10 @@
     name: Daniela Iozzo
     avatar_url: https://avatars.githubusercontent.com/u/15343502?v=4
     html_url: https://github.com/danielaiozzo
+  - login: libremente
+    name: libremente
+    avatar_url: https://avatars.githubusercontent.com/u/25111463?v=4
+    html_url: https://github.com/libremente
   - login: danielenole
     name: Daniele Nolè
     avatar_url: https://avatars.githubusercontent.com/u/102873965?v=4
