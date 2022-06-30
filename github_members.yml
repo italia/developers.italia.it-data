@@ -1223,3 +1223,21 @@
   received_events_url: https://api.github.com/users/yakky/received_events
   type: User
   site_admin: false
+- login: zetareticoli
+  id: 69706
+  node_id: MDQ6VXNlcjY5NzA2
+  avatar_url: https://avatars.githubusercontent.com/u/69706?v=4
+  gravatar_id: ''
+  url: https://api.github.com/users/zetareticoli
+  html_url: https://github.com/zetareticoli
+  followers_url: https://api.github.com/users/zetareticoli/followers
+  following_url: https://api.github.com/users/zetareticoli/following{/other_user}
+  gists_url: https://api.github.com/users/zetareticoli/gists{/gist_id}
+  starred_url: https://api.github.com/users/zetareticoli/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/zetareticoli/subscriptions
+  organizations_url: https://api.github.com/users/zetareticoli/orgs
+  repos_url: https://api.github.com/users/zetareticoli/repos
+  events_url: https://api.github.com/users/zetareticoli/events{/privacy}
+  received_events_url: https://api.github.com/users/zetareticoli/received_events
+  type: User
+  site_admin: false
