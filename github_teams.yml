@@ -302,6 +302,49 @@
     name: Lorenzo Fabbri
     avatar_url: https://avatars.githubusercontent.com/u/24827270?v=4
     html_url: https://github.com/sbronzolo
+- name: Docs Italia - Publishers
+  id: 6335572
+  node_id: T_kwDOAOqloM4AYKxU
+  slug: docs-italia-publishers
+  description: Chi può fare merge e pubblicare nei repository con documenti di Docs
+    Italia
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/6335572
+  html_url: https://github.com/orgs/italia/teams/docs-italia-publishers
+  members_url: https://api.github.com/organizations/15377824/team/6335572/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/6335572/repos
+  permission: pull
+  parent: 
+  members:
+  - login: Fupete
+    name: 'Daniele T. '
+    avatar_url: https://avatars.githubusercontent.com/u/6736103?v=4
+    html_url: https://github.com/Fupete
+  - login: danielaiozzo
+    name: Daniela Iozzo
+    avatar_url: https://avatars.githubusercontent.com/u/15343502?v=4
+    html_url: https://github.com/danielaiozzo
+- name: Docs Italia - Reviewers
+  id: 6335570
+  node_id: T_kwDOAOqloM4AYKxS
+  slug: docs-italia-reviewers
+  description: Chi può approvare Review nei repository con documenti di Docs Italia
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/6335570
+  html_url: https://github.com/orgs/italia/teams/docs-italia-reviewers
+  members_url: https://api.github.com/organizations/15377824/team/6335570/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/6335570/repos
+  permission: pull
+  parent: 
+  members:
+  - login: Fupete
+    name: 'Daniele T. '
+    avatar_url: https://avatars.githubusercontent.com/u/6736103?v=4
+    html_url: https://github.com/Fupete
+  - login: danielaiozzo
+    name: Daniela Iozzo
+    avatar_url: https://avatars.githubusercontent.com/u/15343502?v=4
+    html_url: https://github.com/danielaiozzo
 - name: google-cloud-team
   id: 5411294
   node_id: T_kwDOAOqloM4AUpHe
