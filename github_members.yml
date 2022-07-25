@@ -71,6 +71,24 @@
   received_events_url: https://api.github.com/users/Lorezz/received_events
   type: User
   site_admin: false
+- login: MarcoGargano
+  id: 3099816
+  node_id: MDQ6VXNlcjMwOTk4MTY=
+  avatar_url: https://avatars.githubusercontent.com/u/3099816?v=4
+  gravatar_id: ''
+  url: https://api.github.com/users/MarcoGargano
+  html_url: https://github.com/MarcoGargano
+  followers_url: https://api.github.com/users/MarcoGargano/followers
+  following_url: https://api.github.com/users/MarcoGargano/following{/other_user}
+  gists_url: https://api.github.com/users/MarcoGargano/gists{/gist_id}
+  starred_url: https://api.github.com/users/MarcoGargano/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/MarcoGargano/subscriptions
+  organizations_url: https://api.github.com/users/MarcoGargano/orgs
+  repos_url: https://api.github.com/users/MarcoGargano/repos
+  events_url: https://api.github.com/users/MarcoGargano/events{/privacy}
+  received_events_url: https://api.github.com/users/MarcoGargano/received_events
+  type: User
+  site_admin: false
 - login: MatteCarra
   id: 11074527
   node_id: MDQ6VXNlcjExMDc0NTI3
@@ -771,24 +789,6 @@
   repos_url: https://api.github.com/users/marcoalbarelli/repos
   events_url: https://api.github.com/users/marcoalbarelli/events{/privacy}
   received_events_url: https://api.github.com/users/marcoalbarelli/received_events
-  type: User
-  site_admin: false
-- login: marcogargano
-  id: 3099816
-  node_id: MDQ6VXNlcjMwOTk4MTY=
-  avatar_url: https://avatars.githubusercontent.com/u/3099816?v=4
-  gravatar_id: ''
-  url: https://api.github.com/users/marcogargano
-  html_url: https://github.com/marcogargano
-  followers_url: https://api.github.com/users/marcogargano/followers
-  following_url: https://api.github.com/users/marcogargano/following{/other_user}
-  gists_url: https://api.github.com/users/marcogargano/gists{/gist_id}
-  starred_url: https://api.github.com/users/marcogargano/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/marcogargano/subscriptions
-  organizations_url: https://api.github.com/users/marcogargano/orgs
-  repos_url: https://api.github.com/users/marcogargano/repos
-  events_url: https://api.github.com/users/marcogargano/events{/privacy}
-  received_events_url: https://api.github.com/users/marcogargano/received_events
   type: User
   site_admin: false
 - login: matteodesanti
