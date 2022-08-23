@@ -336,7 +336,8 @@
   id: 6335570
   node_id: T_kwDOAOqloM4AYKxS
   slug: docs-italia-reviewers
-  description: Chi può approvare Review nei repository con documenti di Docs Italia
+  description: Chi può fare approvare durante le review nei repository con documenti
+    di Docs Italia
   privacy: closed
   url: https://api.github.com/organizations/15377824/team/6335570
   html_url: https://github.com/orgs/italia/teams/docs-italia-reviewers
