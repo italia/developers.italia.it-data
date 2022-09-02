@@ -302,15 +302,15 @@
     name: Lorenzo Fabbri
     avatar_url: https://avatars.githubusercontent.com/u/24827270?v=4
     html_url: https://github.com/sbronzolo
-- name: Docs Italia - Publishers
+- name: Docs Italia Design - Publishers
   id: 6335572
   node_id: T_kwDOAOqloM4AYKxU
-  slug: docs-italia-publishers
+  slug: docs-italia-design-publishers
   description: Chi può fare merge e pubblicare nei repository con documenti di Docs
     Italia
   privacy: closed
   url: https://api.github.com/organizations/15377824/team/6335572
-  html_url: https://github.com/orgs/italia/teams/docs-italia-publishers
+  html_url: https://github.com/orgs/italia/teams/docs-italia-design-publishers
   members_url: https://api.github.com/organizations/15377824/team/6335572/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/6335572/repos
   permission: pull
@@ -332,15 +332,15 @@
     name: Daniele Nolè
     avatar_url: https://avatars.githubusercontent.com/u/102873965?v=4
     html_url: https://github.com/danielenole
-- name: Docs Italia - Reviewers
+- name: Docs Italia Design - Reviewers
   id: 6335570
   node_id: T_kwDOAOqloM4AYKxS
-  slug: docs-italia-reviewers
+  slug: docs-italia-design-reviewers
   description: Chi può fare approvare durante le review nei repository con documenti
     di Docs Italia
   privacy: closed
   url: https://api.github.com/organizations/15377824/team/6335570
-  html_url: https://github.com/orgs/italia/teams/docs-italia-reviewers
+  html_url: https://github.com/orgs/italia/teams/docs-italia-design-reviewers
   members_url: https://api.github.com/organizations/15377824/team/6335570/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/6335570/repos
   permission: pull
