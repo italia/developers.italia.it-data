@@ -302,6 +302,64 @@
     name: Lorenzo Fabbri
     avatar_url: https://avatars.githubusercontent.com/u/24827270?v=4
     html_url: https://github.com/sbronzolo
+- name: Docs Italia 1.4.1 - Publishers
+  id: 6563053
+  node_id: T_kwDOAOqloM4AZCTt
+  slug: docs-italia-1-4-1-publishers
+  description: ''
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/6563053
+  html_url: https://github.com/orgs/italia/teams/docs-italia-1-4-1-publishers
+  members_url: https://api.github.com/organizations/15377824/team/6563053/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/6563053/repos
+  permission: pull
+  parent: 
+  members:
+  - login: zetareticoli
+    name: Francesco Improta
+    avatar_url: https://avatars.githubusercontent.com/u/69706?v=4
+    html_url: https://github.com/zetareticoli
+  - login: Fupete
+    name: 'Daniele T. '
+    avatar_url: https://avatars.githubusercontent.com/u/6736103?v=4
+    html_url: https://github.com/Fupete
+  - login: danielaiozzo
+    name: Daniela Iozzo
+    avatar_url: https://avatars.githubusercontent.com/u/15343502?v=4
+    html_url: https://github.com/danielaiozzo
+  - login: danielenole
+    name: Daniele Nolè
+    avatar_url: https://avatars.githubusercontent.com/u/102873965?v=4
+    html_url: https://github.com/danielenole
+- name: Docs Italia 1.4.1 - Reviewers
+  id: 6563067
+  node_id: T_kwDOAOqloM4AZCT7
+  slug: docs-italia-1-4-1-reviewers
+  description: ''
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/6563067
+  html_url: https://github.com/orgs/italia/teams/docs-italia-1-4-1-reviewers
+  members_url: https://api.github.com/organizations/15377824/team/6563067/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/6563067/repos
+  permission: pull
+  parent: 
+  members:
+  - login: zetareticoli
+    name: Francesco Improta
+    avatar_url: https://avatars.githubusercontent.com/u/69706?v=4
+    html_url: https://github.com/zetareticoli
+  - login: Fupete
+    name: 'Daniele T. '
+    avatar_url: https://avatars.githubusercontent.com/u/6736103?v=4
+    html_url: https://github.com/Fupete
+  - login: danielaiozzo
+    name: Daniela Iozzo
+    avatar_url: https://avatars.githubusercontent.com/u/15343502?v=4
+    html_url: https://github.com/danielaiozzo
+  - login: danielenole
+    name: Daniele Nolè
+    avatar_url: https://avatars.githubusercontent.com/u/102873965?v=4
+    html_url: https://github.com/danielenole
 - name: Docs Italia Design - Publishers
   id: 6335572
   node_id: T_kwDOAOqloM4AYKxU
