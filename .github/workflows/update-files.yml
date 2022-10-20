@@ -12,4 +12,4 @@ jobs:
         bundler-cache: true # runs 'bundle install' and caches installed gems automatically
     - run: bundle exec github_importer.rb
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GH_ACCESS_TOKEN: ${{ secrets.GITHUB_TOKEN }}
