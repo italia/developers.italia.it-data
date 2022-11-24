@@ -203,6 +203,23 @@
     name: Daniele Nolè
     avatar_url: https://avatars.githubusercontent.com/u/102873965?v=4
     html_url: https://github.com/danielenole
+- name: Designers Triage
+  id: 7042944
+  node_id: T_kwDOAOqloM4Aa3eA
+  slug: designers-triage
+  description: Designers che possono fare triage/avere assegnate issue
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/7042944
+  html_url: https://github.com/orgs/italia/teams/designers-triage
+  members_url: https://api.github.com/organizations/15377824/team/7042944/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/7042944/repos
+  permission: pull
+  parent: 
+  members:
+  - login: Fupete
+    name: Daniele T.
+    avatar_url: https://avatars.githubusercontent.com/u/6736103?v=4
+    html_url: https://github.com/Fupete
 - name: Developers
   id: 2539353
   node_id: MDQ6VGVhbTI1MzkzNTM=
