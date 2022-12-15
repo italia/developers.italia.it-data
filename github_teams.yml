@@ -104,10 +104,6 @@
     name: LoreLLo
     avatar_url: https://avatars.githubusercontent.com/u/694058?v=4
     html_url: https://github.com/lorello
-  - login: sebbalex
-    name: Alessandro Sebastiani
-    avatar_url: https://avatars.githubusercontent.com/u/11008116?v=4
-    html_url: https://github.com/sebbalex
   - login: dptdgi
     name: Daniele Pizzolli
     avatar_url: https://avatars.githubusercontent.com/u/98891499?v=4
@@ -133,10 +129,6 @@
     name: NicolD
     avatar_url: https://avatars.githubusercontent.com/u/10533937?v=4
     html_url: https://github.com/nicolgit
-  - login: sebbalex
-    name: Alessandro Sebastiani
-    avatar_url: https://avatars.githubusercontent.com/u/11008116?v=4
-    html_url: https://github.com/sebbalex
   - login: dptdgi
     name: Daniele Pizzolli
     avatar_url: https://avatars.githubusercontent.com/u/98891499?v=4
@@ -195,10 +187,6 @@
     name: Daniela Iozzo
     avatar_url: https://avatars.githubusercontent.com/u/15343502?v=4
     html_url: https://github.com/danielaiozzo
-  - login: libremente
-    name: libremente
-    avatar_url: https://avatars.githubusercontent.com/u/25111463?v=4
-    html_url: https://github.com/libremente
   - login: steps88
     name: 
     avatar_url: https://avatars.githubusercontent.com/u/91465481?v=4
@@ -269,14 +257,6 @@
     name: Lorenzo
     avatar_url: https://avatars.githubusercontent.com/u/5399264?v=4
     html_url: https://github.com/LorenzoS92
-  - login: sebbalex
-    name: Alessandro Sebastiani
-    avatar_url: https://avatars.githubusercontent.com/u/11008116?v=4
-    html_url: https://github.com/sebbalex
-  - login: libremente
-    name: libremente
-    avatar_url: https://avatars.githubusercontent.com/u/25111463?v=4
-    html_url: https://github.com/libremente
 - name: DevOps
   id: 3127975
   node_id: MDQ6VGVhbTMxMjc5NzU=
@@ -454,18 +434,10 @@
   permission: pull
   parent: 
   members:
-  - login: paolo-de-rosa
-    name: Paolo De Rosa
-    avatar_url: https://avatars.githubusercontent.com/u/569002?v=4
-    html_url: https://github.com/paolo-de-rosa
   - login: GiuseppeCofano
     name: Giuseppe Cofano
     avatar_url: https://avatars.githubusercontent.com/u/6953708?v=4
     html_url: https://github.com/GiuseppeCofano
-  - login: sebbalex
-    name: Alessandro Sebastiani
-    avatar_url: https://avatars.githubusercontent.com/u/11008116?v=4
-    html_url: https://github.com/sebbalex
   - login: adibalsa
     name: Arcangelo Di Balsamo
     avatar_url: https://avatars.githubusercontent.com/u/17987165?v=4
@@ -582,23 +554,6 @@
     name: Amato Sorrentino
     avatar_url: https://avatars.githubusercontent.com/u/50325673?v=4
     html_url: https://github.com/sorrentinoamato-sia
-- name: report-vaccini-commissario-covid19
-  id: 4421832
-  node_id: MDQ6VGVhbTQ0MjE4MzI=
-  slug: report-vaccini-commissario-covid19
-  description: ''
-  privacy: secret
-  url: https://api.github.com/organizations/15377824/team/4421832
-  html_url: https://github.com/orgs/italia/teams/report-vaccini-commissario-covid19
-  members_url: https://api.github.com/organizations/15377824/team/4421832/members{/member}
-  repositories_url: https://api.github.com/organizations/15377824/team/4421832/repos
-  permission: pull
-  parent: 
-  members:
-  - login: libremente
-    name: libremente
-    avatar_url: https://avatars.githubusercontent.com/u/25111463?v=4
-    html_url: https://github.com/libremente
 - name: Reviewers
   id: 5980822
   node_id: T_kwDOAOqloM4AW0KW
@@ -632,10 +587,6 @@
     name: Lorenzo
     avatar_url: https://avatars.githubusercontent.com/u/5399264?v=4
     html_url: https://github.com/LorenzoS92
-  - login: sebbalex
-    name: Alessandro Sebastiani
-    avatar_url: https://avatars.githubusercontent.com/u/11008116?v=4
-    html_url: https://github.com/sebbalex
 - name: Security
   id: 2539356
   node_id: MDQ6VGVhbTI1MzkzNTY=
