@@ -253,10 +253,6 @@
     name: Giuseppe De Marco
     avatar_url: https://avatars.githubusercontent.com/u/1297620?v=4
     html_url: https://github.com/peppelinux
-  - login: LorenzoS92
-    name: Lorenzo
-    avatar_url: https://avatars.githubusercontent.com/u/5399264?v=4
-    html_url: https://github.com/LorenzoS92
 - name: DevOps
   id: 3127975
   node_id: MDQ6VGVhbTMxMjc5NzU=
@@ -583,10 +579,6 @@
     name: Nicola Squartini
     avatar_url: https://avatars.githubusercontent.com/u/1545895?v=4
     html_url: https://github.com/tensor5
-  - login: LorenzoS92
-    name: Lorenzo
-    avatar_url: https://avatars.githubusercontent.com/u/5399264?v=4
-    html_url: https://github.com/LorenzoS92
 - name: Security
   id: 2539356
   node_id: MDQ6VGVhbTI1MzkzNTY=
