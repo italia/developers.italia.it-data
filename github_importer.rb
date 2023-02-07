@@ -26,7 +26,7 @@ ISSUE_TYPES = ['bug', 'enhancement', 'new project', 'Hacktoberfest'].freeze
 # Ignore these repos using the full_name (ie. 'organization/repo')
 BLACKLISTED_REPOS = [].freeze
 
-GH_ACCESS_TOKEN = ENV.fetch('GH_ACCESS_TOKEN', '')
+GITHUB_TOKEN = ENV.fetch('GITHUB_TOKEN', '')
 
 SAVE_TO_REPO = "italia/developers.italia.it-data"
 
@@ -41,7 +41,7 @@ def fetch(url, headers = {})
   loop do
     print "."
     response = JSON.parse(RestClient.get(url, {
-      Authorization: "token #{GH_ACCESS_TOKEN}", params: rest_params
+      Authorization: "token #{GITHUB_TOKEN}", params: rest_params
     }.merge(headers)))
 
     if response.is_a? Array
@@ -138,7 +138,7 @@ def git_update_file(client, path, contents)
                          branch: 'main')
 end
 
-abort 'Set GH_ACCESS_TOKEN first.' if GH_ACCESS_TOKEN.empty?
+abort 'Set GITHUB_TOKEN first.' if GITHUB_TOKEN.empty?
 
 repos = ORGS.map do |org|
   fetch(
@@ -156,7 +156,7 @@ github_teams = fetch_teams('italia')
 puts "Got #{github_teams.size} teams"
 
 # Fetch org members
-client = Octokit::Client.new(access_token: GH_ACCESS_TOKEN)
+client = Octokit::Client.new(access_token: GITHUB_TOKEN)
 client.auto_paginate = true
 
 github_members = client.organization_public_members('italia').map { |m| m.to_hash.transform_keys(&:to_s) }
