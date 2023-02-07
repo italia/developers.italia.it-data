@@ -6,6 +6,6 @@ build.
 
 ## License
 
-Copyright (c) 2018-2021 - Presidenza del Consiglio dei Ministri
+Copyright (c) 2018-present - Presidenza del Consiglio dei Ministri
 
 The source code is released under the BSD license (SPDX code: `BSD-3-Clause`).
