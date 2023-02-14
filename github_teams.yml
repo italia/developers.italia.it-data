@@ -37,6 +37,27 @@
     name: marco cipri
     avatar_url: https://avatars.githubusercontent.com/u/5989506?v=4
     html_url: https://github.com/marcocipri
+- name: ANSC
+  id: 7383084
+  node_id: T_kwDOAOqloM4AcKgs
+  slug: ansc
+  description: Team di gestione dei repository ANSC
+  privacy: closed
+  url: https://api.github.com/organizations/15377824/team/7383084
+  html_url: https://github.com/orgs/italia/teams/ansc
+  members_url: https://api.github.com/organizations/15377824/team/7383084/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/7383084/repos
+  permission: pull
+  parent: 
+  members:
+  - login: amusarra
+    name: Antonio Musarra
+    avatar_url: https://avatars.githubusercontent.com/u/708110?v=4
+    html_url: https://github.com/amusarra
+  - login: mfortini
+    name: Matteo Fortini
+    avatar_url: https://avatars.githubusercontent.com/u/1104926?v=4
+    html_url: https://github.com/mfortini
 - name: CIE
   id: 2546078
   node_id: MDQ6VGVhbTI1NDYwNzg=
