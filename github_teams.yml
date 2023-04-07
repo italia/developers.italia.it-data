@@ -5,6 +5,7 @@
   slug: 18app
   description: ''
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/2539345
   html_url: https://github.com/orgs/italia/teams/18app
   members_url: https://api.github.com/organizations/15377824/team/2539345/members{/member}
@@ -22,6 +23,7 @@
   slug: anpr
   description: I maintainer di ANPR
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/2263028
   html_url: https://github.com/orgs/italia/teams/anpr
   members_url: https://api.github.com/organizations/15377824/team/2263028/members{/member}
@@ -43,6 +45,7 @@
   slug: ansc
   description: Team di gestione dei repository ANSC
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/7383084
   html_url: https://github.com/orgs/italia/teams/ansc
   members_url: https://api.github.com/organizations/15377824/team/7383084/members{/member}
@@ -92,6 +95,7 @@
   slug: cie
   description: I project leader di CIE
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/2546078
   html_url: https://github.com/orgs/italia/teams/cie
   members_url: https://api.github.com/organizations/15377824/team/2546078/members{/member}
@@ -121,6 +125,7 @@
   slug: cloud
   description: Cloud & Data center team
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/3027292
   html_url: https://github.com/orgs/italia/teams/cloud
   members_url: https://api.github.com/organizations/15377824/team/3027292/members{/member}
@@ -146,6 +151,7 @@
   slug: cloud-amazon-team
   description: ''
   privacy: secret
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/5725358
   html_url: https://github.com/orgs/italia/teams/cloud-amazon-team
   members_url: https://api.github.com/organizations/15377824/team/5725358/members{/member}
@@ -167,6 +173,7 @@
   slug: cloud-microsoft-team
   description: ''
   privacy: secret
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/5631204
   html_url: https://github.com/orgs/italia/teams/cloud-microsoft-team
   members_url: https://api.github.com/organizations/15377824/team/5631204/members{/member}
@@ -192,6 +199,7 @@
   slug: datigov
   description: dati.gov.it
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/3127970
   html_url: https://github.com/orgs/italia/teams/datigov
   members_url: https://api.github.com/organizations/15377824/team/3127970/members{/member}
@@ -209,6 +217,7 @@
   slug: designers
   description: Maintainers of the Italia Design
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/2374583
   html_url: https://github.com/orgs/italia/teams/designers
   members_url: https://api.github.com/organizations/15377824/team/2374583/members{/member}
@@ -254,6 +263,7 @@
   slug: designers-triage
   description: Designers che possono fare triage/avere assegnate issue
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/7042944
   html_url: https://github.com/orgs/italia/teams/designers-triage
   members_url: https://api.github.com/organizations/15377824/team/7042944/members{/member}
@@ -279,6 +289,7 @@
   slug: developers
   description: Maintainers of the developer community
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/2539353
   html_url: https://github.com/orgs/italia/teams/developers
   members_url: https://api.github.com/organizations/15377824/team/2539353/members{/member}
@@ -312,6 +323,7 @@
   slug: devops
   description: ''
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/3127975
   html_url: https://github.com/orgs/italia/teams/devops
   members_url: https://api.github.com/organizations/15377824/team/3127975/members{/member}
@@ -333,6 +345,7 @@
   slug: docs-italia
   description: Maintainers of the Docs Italia project
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/2541934
   html_url: https://github.com/orgs/italia/teams/docs-italia
   members_url: https://api.github.com/organizations/15377824/team/2541934/members{/member}
@@ -366,6 +379,7 @@
   slug: docs-italia-1-4-1-publishers
   description: ''
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/6563053
   html_url: https://github.com/orgs/italia/teams/docs-italia-1-4-1-publishers
   members_url: https://api.github.com/organizations/15377824/team/6563053/members{/member}
@@ -395,6 +409,7 @@
   slug: docs-italia-1-4-1-reviewers
   description: ''
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/6563067
   html_url: https://github.com/orgs/italia/teams/docs-italia-1-4-1-reviewers
   members_url: https://api.github.com/organizations/15377824/team/6563067/members{/member}
@@ -425,6 +440,7 @@
   description: Chi può fare merge e pubblicare nei repository con documenti di Docs
     Italia
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/6335572
   html_url: https://github.com/orgs/italia/teams/docs-italia-design-publishers
   members_url: https://api.github.com/organizations/15377824/team/6335572/members{/member}
@@ -455,6 +471,7 @@
   description: Chi può fare approvare durante le review nei repository con documenti
     di Docs Italia
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/6335570
   html_url: https://github.com/orgs/italia/teams/docs-italia-design-reviewers
   members_url: https://api.github.com/organizations/15377824/team/6335570/members{/member}
@@ -476,6 +493,7 @@
   slug: google-cloud-team
   description: ''
   privacy: secret
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/5411294
   html_url: https://github.com/orgs/italia/teams/google-cloud-team
   members_url: https://api.github.com/organizations/15377824/team/5411294/members{/member}
@@ -517,6 +535,7 @@
   slug: io
   description: ''
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/3127979
   html_url: https://github.com/orgs/italia/teams/io
   members_url: https://api.github.com/organizations/15377824/team/3127979/members{/member}
@@ -538,6 +557,7 @@
   slug: national-data-catalog-ndc
   description: Maintainers of National Data Catalog (NDC)
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/2491394
   html_url: https://github.com/orgs/italia/teams/national-data-catalog-ndc
   members_url: https://api.github.com/organizations/15377824/team/2491394/members{/member}
@@ -559,6 +579,7 @@
   slug: pagopa
   description: ''
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/2513878
   html_url: https://github.com/orgs/italia/teams/pagopa
   members_url: https://api.github.com/organizations/15377824/team/2513878/members{/member}
@@ -584,6 +605,7 @@
   slug: pagopa-sia
   description: ''
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/3407974
   html_url: https://github.com/orgs/italia/teams/pagopa-sia
   members_url: https://api.github.com/organizations/15377824/team/3407974/members{/member}
@@ -605,6 +627,7 @@
   slug: reviewers
   description: ''
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/5980822
   html_url: https://github.com/orgs/italia/teams/reviewers
   members_url: https://api.github.com/organizations/15377824/team/5980822/members{/member}
@@ -634,6 +657,7 @@
   slug: security
   description: ''
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/2539356
   html_url: https://github.com/orgs/italia/teams/security
   members_url: https://api.github.com/organizations/15377824/team/2539356/members{/member}
@@ -652,6 +676,7 @@
   description: This team includes the Community Leaders of SPID within Developers
     Italia
   privacy: closed
+  notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/2539388
   html_url: https://github.com/orgs/italia/teams/spid
   members_url: https://api.github.com/organizations/15377824/team/2539388/members{/member}
