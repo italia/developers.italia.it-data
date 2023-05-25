@@ -551,6 +551,28 @@
     name: Matteo De Santi
     avatar_url: https://avatars.githubusercontent.com/u/8171284?v=4
     html_url: https://github.com/matteodesanti
+- name: IT-Wallet
+  id: 7962426
+  node_id: T_kwDOAOqloM4AeX86
+  slug: it-wallet
+  description: Italia eIDAS Digital Identity Wallet
+  privacy: closed
+  notification_setting: notifications_enabled
+  url: https://api.github.com/organizations/15377824/team/7962426
+  html_url: https://github.com/orgs/italia/teams/it-wallet
+  members_url: https://api.github.com/organizations/15377824/team/7962426/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/7962426/repos
+  permission: pull
+  parent: 
+  members:
+  - login: misillet
+    name: Michele Silletti
+    avatar_url: https://avatars.githubusercontent.com/u/1114903?v=4
+    html_url: https://github.com/misillet
+  - login: peppelinux
+    name: Giuseppe De Marco
+    avatar_url: https://avatars.githubusercontent.com/u/1297620?v=4
+    html_url: https://github.com/peppelinux
 - name: National Data Catalog (NDC)
   id: 2491394
   node_id: MDQ6VGVhbTI0OTEzOTQ=
