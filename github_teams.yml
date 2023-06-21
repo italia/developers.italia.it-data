@@ -89,6 +89,36 @@
     name: 
     avatar_url: https://avatars.githubusercontent.com/u/126264837?v=4
     html_url: https://github.com/costanzarosati
+- name: api-padigitale2026-misura1.3.1-uni-afam
+  id: 8106867
+  node_id: T_kwDOAOqloM4Ae7Nz
+  slug: api-padigitale2026-misura1-3-1-uni-afam
+  description: ''
+  privacy: closed
+  notification_setting: notifications_enabled
+  url: https://api.github.com/organizations/15377824/team/8106867
+  html_url: https://github.com/orgs/italia/teams/api-padigitale2026-misura1-3-1-uni-afam
+  members_url: https://api.github.com/organizations/15377824/team/8106867/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/8106867/repos
+  permission: pull
+  parent: 
+  members:
+  - login: mfortini
+    name: Matteo Fortini
+    avatar_url: https://avatars.githubusercontent.com/u/1104926?v=4
+    html_url: https://github.com/mfortini
+  - login: AulicinoDiego
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/32509383?v=4
+    html_url: https://github.com/AulicinoDiego
+  - login: irenelb
+    name: Irene
+    avatar_url: https://avatars.githubusercontent.com/u/58523325?v=4
+    html_url: https://github.com/irenelb
+  - login: adoriaiad
+    name: Angelita Doria
+    avatar_url: https://avatars.githubusercontent.com/u/94462120?v=4
+    html_url: https://github.com/adoriaiad
 - name: CIE
   id: 2546078
   node_id: MDQ6VGVhbTI1NDYwNzg=
