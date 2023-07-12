@@ -127,6 +127,14 @@
     name: Angelita Doria
     avatar_url: https://avatars.githubusercontent.com/u/94462120?v=4
     html_url: https://github.com/adoriaiad
+  - login: ldoneda
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/139358239?v=4
+    html_url: https://github.com/ldoneda
+  - login: davidelongo-ey
+    name: Davide Longo
+    avatar_url: https://avatars.githubusercontent.com/u/139359776?v=4
+    html_url: https://github.com/davidelongo-ey
 - name: CIE
   id: 2546078
   node_id: MDQ6VGVhbTI1NDYwNzg=
