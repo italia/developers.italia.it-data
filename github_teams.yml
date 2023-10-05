@@ -518,8 +518,8 @@
   id: 6335570
   node_id: T_kwDOAOqloM4AYKxS
   slug: docs-italia-design-reviewers
-  description: Chi può fare approvare durante le review nei repository con documenti
-    di Docs Italia
+  description: Chi può approvare durante le review nei repository con documenti di
+    Docs Italia
   privacy: closed
   notification_setting: notifications_enabled
   url: https://api.github.com/organizations/15377824/team/6335570
@@ -693,36 +693,6 @@
     name: Amato Sorrentino
     avatar_url: https://avatars.githubusercontent.com/u/50325673?v=4
     html_url: https://github.com/sorrentinoamato-sia
-- name: Reviewers
-  id: 5980822
-  node_id: T_kwDOAOqloM4AW0KW
-  slug: reviewers
-  description: ''
-  privacy: closed
-  notification_setting: notifications_enabled
-  url: https://api.github.com/organizations/15377824/team/5980822
-  html_url: https://github.com/orgs/italia/teams/reviewers
-  members_url: https://api.github.com/organizations/15377824/team/5980822/members{/member}
-  repositories_url: https://api.github.com/organizations/15377824/team/5980822/repos
-  permission: pull
-  parent: 
-  members:
-  - login: astagi
-    name: Andrea Stagi
-    avatar_url: https://avatars.githubusercontent.com/u/537363?v=4
-    html_url: https://github.com/astagi
-  - login: bfabio
-    name: Fabio Bonelli
-    avatar_url: https://avatars.githubusercontent.com/u/788293?v=4
-    html_url: https://github.com/bfabio
-  - login: peppelinux
-    name: Giuseppe De Marco
-    avatar_url: https://avatars.githubusercontent.com/u/1297620?v=4
-    html_url: https://github.com/peppelinux
-  - login: tensor5
-    name: Nicola Squartini
-    avatar_url: https://avatars.githubusercontent.com/u/1545895?v=4
-    html_url: https://github.com/tensor5
 - name: Security
   id: 2539356
   node_id: MDQ6VGVhbTI1MzkzNTY=
