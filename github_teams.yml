@@ -74,7 +74,7 @@
     avatar_url: https://avatars.githubusercontent.com/u/29303629?v=4
     html_url: https://github.com/asqueglia
   - login: mttfranci
-    name: Matteo
+    name: Matteo Franci
     avatar_url: https://avatars.githubusercontent.com/u/29305782?v=4
     html_url: https://github.com/mttfranci
   - login: anbatistini
@@ -89,6 +89,48 @@
     name: 
     avatar_url: https://avatars.githubusercontent.com/u/126264837?v=4
     html_url: https://github.com/costanzarosati
+- name: ANSC Admins
+  id: 8851500
+  node_id: T_kwDOAOqloM4AhxAs
+  slug: ansc-admins
+  description: ''
+  privacy: closed
+  notification_setting: notifications_enabled
+  url: https://api.github.com/organizations/15377824/team/8851500
+  html_url: https://github.com/orgs/italia/teams/ansc-admins
+  members_url: https://api.github.com/organizations/15377824/team/8851500/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/8851500/repos
+  permission: pull
+  parent:
+    name: ANSC
+    id: 7383084
+    node_id: T_kwDOAOqloM4AcKgs
+    slug: ansc
+    description: Team di gestione dei repository ANSC
+    privacy: closed
+    notification_setting: notifications_enabled
+    url: https://api.github.com/organizations/15377824/team/7383084
+    html_url: https://github.com/orgs/italia/teams/ansc
+    members_url: https://api.github.com/organizations/15377824/team/7383084/members{/member}
+    repositories_url: https://api.github.com/organizations/15377824/team/7383084/repos
+    permission: pull
+  members:
+  - login: amusarra
+    name: Antonio Musarra
+    avatar_url: https://avatars.githubusercontent.com/u/708110?v=4
+    html_url: https://github.com/amusarra
+  - login: mfortini
+    name: Matteo Fortini
+    avatar_url: https://avatars.githubusercontent.com/u/1104926?v=4
+    html_url: https://github.com/mfortini
+  - login: asqueglia
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/29303629?v=4
+    html_url: https://github.com/asqueglia
+  - login: mttfranci
+    name: Matteo Franci
+    avatar_url: https://avatars.githubusercontent.com/u/29305782?v=4
+    html_url: https://github.com/mttfranci
 - name: api-padigitale2026-misura1.3.1-uni-afam
   id: 8106867
   node_id: T_kwDOAOqloM4Ae7Nz
