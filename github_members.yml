@@ -197,6 +197,24 @@
   received_events_url: https://api.github.com/users/cicciodifranco/received_events
   type: User
   site_admin: false
+- login: Clou-dia
+  id: 98462345
+  node_id: U_kgDOBd5qiQ
+  avatar_url: https://avatars.githubusercontent.com/u/98462345?v=4
+  gravatar_id: ''
+  url: https://api.github.com/users/Clou-dia
+  html_url: https://github.com/Clou-dia
+  followers_url: https://api.github.com/users/Clou-dia/followers
+  following_url: https://api.github.com/users/Clou-dia/following{/other_user}
+  gists_url: https://api.github.com/users/Clou-dia/gists{/gist_id}
+  starred_url: https://api.github.com/users/Clou-dia/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/Clou-dia/subscriptions
+  organizations_url: https://api.github.com/users/Clou-dia/orgs
+  repos_url: https://api.github.com/users/Clou-dia/repos
+  events_url: https://api.github.com/users/Clou-dia/events{/privacy}
+  received_events_url: https://api.github.com/users/Clou-dia/received_events
+  type: User
+  site_admin: false
 - login: cloudify
   id: 48206
   node_id: MDQ6VXNlcjQ4MjA2
