@@ -213,10 +213,6 @@
     name: Lucio Pileggi
     avatar_url: https://avatars.githubusercontent.com/u/265532?v=4
     html_url: https://github.com/luciopileggi
-  - login: paolo-de-rosa
-    name: Paolo De Rosa
-    avatar_url: https://avatars.githubusercontent.com/u/569002?v=4
-    html_url: https://github.com/paolo-de-rosa
   - login: dptdgi
     name: Daniele Pizzolli
     avatar_url: https://avatars.githubusercontent.com/u/98891499?v=4
@@ -411,10 +407,6 @@
   permission: pull
   parent: 
   members:
-  - login: paolo-de-rosa
-    name: Paolo De Rosa
-    avatar_url: https://avatars.githubusercontent.com/u/569002?v=4
-    html_url: https://github.com/paolo-de-rosa
   - login: dptdgi
     name: Daniele Pizzolli
     avatar_url: https://avatars.githubusercontent.com/u/98891499?v=4
@@ -727,24 +719,6 @@
     name: Amato Sorrentino
     avatar_url: https://avatars.githubusercontent.com/u/50325673?v=4
     html_url: https://github.com/sorrentinoamato-sia
-- name: Security
-  id: 2539356
-  node_id: MDQ6VGVhbTI1MzkzNTY=
-  slug: security
-  description: ''
-  privacy: closed
-  notification_setting: notifications_enabled
-  url: https://api.github.com/organizations/15377824/team/2539356
-  html_url: https://github.com/orgs/italia/teams/security
-  members_url: https://api.github.com/organizations/15377824/team/2539356/members{/member}
-  repositories_url: https://api.github.com/organizations/15377824/team/2539356/repos
-  permission: pull
-  parent: 
-  members:
-  - login: paolo-de-rosa
-    name: Paolo De Rosa
-    avatar_url: https://avatars.githubusercontent.com/u/569002?v=4
-    html_url: https://github.com/paolo-de-rosa
 - name: SPID
   id: 2539388
   node_id: MDQ6VGVhbTI1MzkzODg=
