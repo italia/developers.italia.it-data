@@ -30,15 +30,7 @@
   repositories_url: https://api.github.com/organizations/15377824/team/2263028/repos
   permission: pull
   parent: 
-  members:
-  - login: mccalv
-    name: Mirko Calvaresi
-    avatar_url: https://avatars.githubusercontent.com/u/1814818?v=4
-    html_url: https://github.com/mccalv
-  - login: marcocipri
-    name: marco cipri
-    avatar_url: https://avatars.githubusercontent.com/u/5989506?v=4
-    html_url: https://github.com/marcocipri
+  members: []
 - name: ANSC
   id: 7383084
   node_id: T_kwDOAOqloM4AcKgs
@@ -425,26 +417,10 @@
   permission: pull
   parent: 
   members:
-  - login: francescozaia
-    name: Francesco Zaia
-    avatar_url: https://avatars.githubusercontent.com/u/481084?v=4
-    html_url: https://github.com/francescozaia
-  - login: pauloxnet
-    name: Paolo Melchiorre
-    avatar_url: https://avatars.githubusercontent.com/u/521097?v=4
-    html_url: https://github.com/pauloxnet
   - login: pdavide
     name: Davide Porrovecchio
     avatar_url: https://avatars.githubusercontent.com/u/9119858?v=4
     html_url: https://github.com/pdavide
-  - login: mamatteo
-    name: Matteo Troìa
-    avatar_url: https://avatars.githubusercontent.com/u/13586012?v=4
-    html_url: https://github.com/mamatteo
-  - login: sbronzolo
-    name: Lorenzo Fabbri
-    avatar_url: https://avatars.githubusercontent.com/u/24827270?v=4
-    html_url: https://github.com/sbronzolo
 - name: Docs Italia 1.4.1 - Publishers
   id: 6563053
   node_id: T_kwDOAOqloM4AZCTt
