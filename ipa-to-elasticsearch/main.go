@@ -120,15 +120,15 @@ func _readCSVFromURL(url string) ([][]string, error) {
 
 func main() {
 	es, err := elastic.ClientFactory(
-	"https://elasticsearch.developers.italia.it/",
-	"elastic",
-	os.Getenv("ELASTIC_PWD"))
+		"https://elasticsearch.developers.italia.it/",
+		"elastic",
+		os.Getenv("ELASTIC_PWD"))
 	if err != nil {
 		log.Fatal(err)
 	}
 
 	err = UpdateFromIndicePA(es)
 	if err != nil {
-		log.Error(err)
+		log.Fatal(err)
 	}
 }
