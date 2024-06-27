@@ -593,6 +593,10 @@
   permission: pull
   parent: 
   members:
+  - login: ruphy
+    name: Riccardo Iaconelli
+    avatar_url: https://avatars.githubusercontent.com/u/2030?v=4
+    html_url: https://github.com/ruphy
   - login: misillet
     name: Michele Silletti
     avatar_url: https://avatars.githubusercontent.com/u/1114903?v=4
@@ -601,6 +605,52 @@
     name: Giuseppe De Marco
     avatar_url: https://avatars.githubusercontent.com/u/1297620?v=4
     html_url: https://github.com/peppelinux
+  - login: gmessori18
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/174037001?v=4
+    html_url: https://github.com/gmessori18
+  - login: folivanti
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/174037173?v=4
+    html_url: https://github.com/folivanti
+- name: IT-Wallet-Legals
+  id: 10393989
+  node_id: T_kwDOAOqloM4AnpmF
+  slug: it-wallet-legals
+  description: ''
+  privacy: closed
+  notification_setting: notifications_enabled
+  url: https://api.github.com/organizations/15377824/team/10393989
+  html_url: https://github.com/orgs/italia/teams/it-wallet-legals
+  members_url: https://api.github.com/organizations/15377824/team/10393989/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/10393989/repos
+  permission: pull
+  parent:
+    name: IT-Wallet
+    id: 7962426
+    node_id: T_kwDOAOqloM4AeX86
+    slug: it-wallet
+    description: Italia eIDAS Digital Identity Wallet
+    privacy: closed
+    notification_setting: notifications_enabled
+    url: https://api.github.com/organizations/15377824/team/7962426
+    html_url: https://github.com/orgs/italia/teams/it-wallet
+    members_url: https://api.github.com/organizations/15377824/team/7962426/members{/member}
+    repositories_url: https://api.github.com/organizations/15377824/team/7962426/repos
+    permission: pull
+  members:
+  - login: peppelinux
+    name: Giuseppe De Marco
+    avatar_url: https://avatars.githubusercontent.com/u/1297620?v=4
+    html_url: https://github.com/peppelinux
+  - login: gmessori18
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/174037001?v=4
+    html_url: https://github.com/gmessori18
+  - login: folivanti
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/174037173?v=4
+    html_url: https://github.com/folivanti
 - name: National Data Catalog (NDC)
   id: 2491394
   node_id: MDQ6VGVhbTI0OTEzOTQ=
