@@ -16,7 +16,10 @@ jobs:
           go-version: 1.18.x
       - run: >
           cd ipa-to-elasticsearch &&
-          curl -vL 'https://www.indicepa.gov.it/public-services/opendata-read-service.php?dstype=FS&filename=pec.txt' -o pec.txt &&
+          curl
+            -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:127.0) Gecko/20100101 Firefox/127.0"
+            -vL 'https://www.indicepa.gov.it/public-services/opendata-read-service.php?dstype=FS&filename=pec.txt'
+            -o pec.txt &&
           head pec.txt &&
           go run main.go
         env:
