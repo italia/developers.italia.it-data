@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 3 * * *'
+    - cron: '0 15 * * *'
 
 jobs:
   # NOTE: this is the importer from the legacy publiccode-crawler,
