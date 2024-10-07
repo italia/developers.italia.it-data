@@ -507,10 +507,30 @@
     name: Riccardo Iaconelli
     avatar_url: https://avatars.githubusercontent.com/u/2030?v=4
     html_url: https://github.com/ruphy
+  - login: grausof
+    name: Francesco Grauso
+    avatar_url: https://avatars.githubusercontent.com/u/442709?v=4
+    html_url: https://github.com/grausof
   - login: peppelinux
     name: Giuseppe De Marco
     avatar_url: https://avatars.githubusercontent.com/u/1297620?v=4
     html_url: https://github.com/peppelinux
+  - login: vintra73
+    name: vincenzo travascio
+    avatar_url: https://avatars.githubusercontent.com/u/25592980?v=4
+    html_url: https://github.com/vintra73
+  - login: andemaria
+    name: Andrea De Maria
+    avatar_url: https://avatars.githubusercontent.com/u/26910179?v=4
+    html_url: https://github.com/andemaria
+  - login: AntonioFlorio
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/53568596?v=4
+    html_url: https://github.com/AntonioFlorio
+  - login: fmarino-ipzs
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/77629526?v=4
+    html_url: https://github.com/fmarino-ipzs
   - login: RosaliaGaleano
     name: 
     avatar_url: https://avatars.githubusercontent.com/u/139998796?v=4
@@ -561,6 +581,60 @@
     name: 
     avatar_url: https://avatars.githubusercontent.com/u/174037173?v=4
     html_url: https://github.com/folivanti
+- name: LLGG-IT-Wallet
+  id: 11210514
+  node_id: T_kwDOAOqloM4Aqw8S
+  slug: llgg-it-wallet
+  description: ''
+  privacy: closed
+  notification_setting: notifications_enabled
+  url: https://api.github.com/organizations/15377824/team/11210514
+  html_url: https://github.com/orgs/italia/teams/llgg-it-wallet
+  members_url: https://api.github.com/organizations/15377824/team/11210514/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/11210514/repos
+  permission: pull
+  parent:
+    name: IT-Wallet
+    id: 7962426
+    node_id: T_kwDOAOqloM4AeX86
+    slug: it-wallet
+    description: Italia eIDAS Digital Identity Wallet
+    privacy: closed
+    notification_setting: notifications_enabled
+    url: https://api.github.com/organizations/15377824/team/7962426
+    html_url: https://github.com/orgs/italia/teams/it-wallet
+    members_url: https://api.github.com/organizations/15377824/team/7962426/members{/member}
+    repositories_url: https://api.github.com/organizations/15377824/team/7962426/repos
+    permission: pull
+  members:
+  - login: grausof
+    name: Francesco Grauso
+    avatar_url: https://avatars.githubusercontent.com/u/442709?v=4
+    html_url: https://github.com/grausof
+  - login: peppelinux
+    name: Giuseppe De Marco
+    avatar_url: https://avatars.githubusercontent.com/u/1297620?v=4
+    html_url: https://github.com/peppelinux
+  - login: vintra73
+    name: vincenzo travascio
+    avatar_url: https://avatars.githubusercontent.com/u/25592980?v=4
+    html_url: https://github.com/vintra73
+  - login: andemaria
+    name: Andrea De Maria
+    avatar_url: https://avatars.githubusercontent.com/u/26910179?v=4
+    html_url: https://github.com/andemaria
+  - login: AntonioFlorio
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/53568596?v=4
+    html_url: https://github.com/AntonioFlorio
+  - login: fmarino-ipzs
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/77629526?v=4
+    html_url: https://github.com/fmarino-ipzs
+  - login: RosaliaGaleano
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/139998796?v=4
+    html_url: https://github.com/RosaliaGaleano
 - name: National Data Catalog (NDC)
   id: 2491394
   node_id: MDQ6VGVhbTI0OTEzOTQ=
