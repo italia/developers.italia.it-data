@@ -547,6 +547,10 @@
     name: 
     avatar_url: https://avatars.githubusercontent.com/u/174037173?v=4
     html_url: https://github.com/folivanti
+  - login: dFDiegoACN
+    name: Diego de Felice (ACN)
+    avatar_url: https://avatars.githubusercontent.com/u/182736531?v=4
+    html_url: https://github.com/dFDiegoACN
 - name: IT-Wallet-Legals
   id: 10393989
   node_id: T_kwDOAOqloM4AnpmF
@@ -643,6 +647,10 @@
     name: 
     avatar_url: https://avatars.githubusercontent.com/u/139998796?v=4
     html_url: https://github.com/RosaliaGaleano
+  - login: dFDiegoACN
+    name: Diego de Felice (ACN)
+    avatar_url: https://avatars.githubusercontent.com/u/182736531?v=4
+    html_url: https://github.com/dFDiegoACN
 - name: National Data Catalog (NDC)
   id: 2491394
   node_id: MDQ6VGVhbTI0OTEzOTQ=
