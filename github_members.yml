@@ -16,6 +16,7 @@
   events_url: https://api.github.com/users/afilini/events{/privacy}
   received_events_url: https://api.github.com/users/afilini/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: aletundo
   id: 15201375
@@ -34,6 +35,7 @@
   events_url: https://api.github.com/users/aletundo/events{/privacy}
   received_events_url: https://api.github.com/users/aletundo/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: alexghirelli
   id: 5411012
@@ -52,6 +54,7 @@
   events_url: https://api.github.com/users/alexghirelli/events{/privacy}
   received_events_url: https://api.github.com/users/alexghirelli/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: alranel
   id: 594957
@@ -70,6 +73,7 @@
   events_url: https://api.github.com/users/alranel/events{/privacy}
   received_events_url: https://api.github.com/users/alranel/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: alterat
   id: 19559470
@@ -88,6 +92,7 @@
   events_url: https://api.github.com/users/alterat/events{/privacy}
   received_events_url: https://api.github.com/users/alterat/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: amusarra
   id: 708110
@@ -106,6 +111,7 @@
   events_url: https://api.github.com/users/amusarra/events{/privacy}
   received_events_url: https://api.github.com/users/amusarra/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: astagi
   id: 537363
@@ -124,6 +130,7 @@
   events_url: https://api.github.com/users/astagi/events{/privacy}
   received_events_url: https://api.github.com/users/astagi/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: aymen94
   id: 13963132
@@ -142,6 +149,7 @@
   events_url: https://api.github.com/users/aymen94/events{/privacy}
   received_events_url: https://api.github.com/users/aymen94/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: bfabio
   id: 788293
@@ -160,6 +168,7 @@
   events_url: https://api.github.com/users/bfabio/events{/privacy}
   received_events_url: https://api.github.com/users/bfabio/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: biancini
   id: 1561585
@@ -178,6 +187,7 @@
   events_url: https://api.github.com/users/biancini/events{/privacy}
   received_events_url: https://api.github.com/users/biancini/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: cicciodifranco
   id: 9107536
@@ -196,6 +206,7 @@
   events_url: https://api.github.com/users/cicciodifranco/events{/privacy}
   received_events_url: https://api.github.com/users/cicciodifranco/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: Clou-dia
   id: 98462345
@@ -214,6 +225,7 @@
   events_url: https://api.github.com/users/Clou-dia/events{/privacy}
   received_events_url: https://api.github.com/users/Clou-dia/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: cloudify
   id: 48206
@@ -232,6 +244,7 @@
   events_url: https://api.github.com/users/cloudify/events{/privacy}
   received_events_url: https://api.github.com/users/cloudify/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: congiuluc
   id: 9011632
@@ -250,6 +263,7 @@
   events_url: https://api.github.com/users/congiuluc/events{/privacy}
   received_events_url: https://api.github.com/users/congiuluc/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: damikael
   id: 31276401
@@ -268,6 +282,7 @@
   events_url: https://api.github.com/users/damikael/events{/privacy}
   received_events_url: https://api.github.com/users/damikael/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: damjack
   id: 3234955
@@ -286,6 +301,7 @@
   events_url: https://api.github.com/users/damjack/events{/privacy}
   received_events_url: https://api.github.com/users/damjack/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: danielenole
   id: 102873965
@@ -304,6 +320,7 @@
   events_url: https://api.github.com/users/danielenole/events{/privacy}
   received_events_url: https://api.github.com/users/danielenole/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: danse
   id: 885935
@@ -322,6 +339,7 @@
   events_url: https://api.github.com/users/danse/events{/privacy}
   received_events_url: https://api.github.com/users/danse/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: DavidePastore
   id: 1949364
@@ -340,6 +358,7 @@
   events_url: https://api.github.com/users/DavidePastore/events{/privacy}
   received_events_url: https://api.github.com/users/DavidePastore/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: davidlibrera
   id: 400256
@@ -358,6 +377,7 @@
   events_url: https://api.github.com/users/davidlibrera/events{/privacy}
   received_events_url: https://api.github.com/users/davidlibrera/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: dej611
   id: 924948
@@ -376,6 +396,7 @@
   events_url: https://api.github.com/users/dej611/events{/privacy}
   received_events_url: https://api.github.com/users/dej611/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: descovi
   id: 104249
@@ -394,6 +415,7 @@
   events_url: https://api.github.com/users/descovi/events{/privacy}
   received_events_url: https://api.github.com/users/descovi/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: dgbattisti
   id: 40858931
@@ -412,6 +434,7 @@
   events_url: https://api.github.com/users/dgbattisti/events{/privacy}
   received_events_url: https://api.github.com/users/dgbattisti/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: engineering87
   id: 11808127
@@ -430,6 +453,7 @@
   events_url: https://api.github.com/users/engineering87/events{/privacy}
   received_events_url: https://api.github.com/users/engineering87/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: ennioVisco
   id: 740025
@@ -448,6 +472,7 @@
   events_url: https://api.github.com/users/ennioVisco/events{/privacy}
   received_events_url: https://api.github.com/users/ennioVisco/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: federicadelia
   id: 1468940
@@ -466,6 +491,7 @@
   events_url: https://api.github.com/users/federicadelia/events{/privacy}
   received_events_url: https://api.github.com/users/federicadelia/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: fmarco
   id: 7735024
@@ -484,6 +510,7 @@
   events_url: https://api.github.com/users/fmarco/events{/privacy}
   received_events_url: https://api.github.com/users/fmarco/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: francesco-filicetti
   id: 28479069
@@ -502,6 +529,7 @@
   events_url: https://api.github.com/users/francesco-filicetti/events{/privacy}
   received_events_url: https://api.github.com/users/francesco-filicetti/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: francescozaia
   id: 481084
@@ -520,6 +548,7 @@
   events_url: https://api.github.com/users/francescozaia/events{/privacy}
   received_events_url: https://api.github.com/users/francescozaia/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: giux78
   id: 2806256
@@ -538,6 +567,7 @@
   events_url: https://api.github.com/users/giux78/events{/privacy}
   received_events_url: https://api.github.com/users/giux78/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: gruggiero
   id: 667101
@@ -556,6 +586,7 @@
   events_url: https://api.github.com/users/gruggiero/events{/privacy}
   received_events_url: https://api.github.com/users/gruggiero/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: gunzip
   id: 148224
@@ -574,6 +605,7 @@
   events_url: https://api.github.com/users/gunzip/events{/privacy}
   received_events_url: https://api.github.com/users/gunzip/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: HoochDeveloper
   id: 9978186
@@ -592,6 +624,7 @@
   events_url: https://api.github.com/users/HoochDeveloper/events{/privacy}
   received_events_url: https://api.github.com/users/HoochDeveloper/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: Jecko-o
   id: 22814742
@@ -610,6 +643,7 @@
   events_url: https://api.github.com/users/Jecko-o/events{/privacy}
   received_events_url: https://api.github.com/users/Jecko-o/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: jenkin
   id: 426495
@@ -628,6 +662,7 @@
   events_url: https://api.github.com/users/jenkin/events{/privacy}
   received_events_url: https://api.github.com/users/jenkin/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: joeyates
   id: 137838
@@ -646,6 +681,7 @@
   events_url: https://api.github.com/users/joeyates/events{/privacy}
   received_events_url: https://api.github.com/users/joeyates/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: leptoquark
   id: 5127294
@@ -664,6 +700,7 @@
   events_url: https://api.github.com/users/leptoquark/events{/privacy}
   received_events_url: https://api.github.com/users/leptoquark/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: libremente
   id: 25111463
@@ -682,6 +719,7 @@
   events_url: https://api.github.com/users/libremente/events{/privacy}
   received_events_url: https://api.github.com/users/libremente/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: lilloraffa
   id: 7894625
@@ -700,6 +738,7 @@
   events_url: https://api.github.com/users/lilloraffa/events{/privacy}
   received_events_url: https://api.github.com/users/lilloraffa/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: lorenzoba
   id: 18281360
@@ -718,6 +757,7 @@
   events_url: https://api.github.com/users/lorenzoba/events{/privacy}
   received_events_url: https://api.github.com/users/lorenzoba/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: Lorezz
   id: 1153066
@@ -736,6 +776,7 @@
   events_url: https://api.github.com/users/Lorezz/events{/privacy}
   received_events_url: https://api.github.com/users/Lorezz/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: luciopileggi
   id: 265532
@@ -754,6 +795,7 @@
   events_url: https://api.github.com/users/luciopileggi/events{/privacy}
   received_events_url: https://api.github.com/users/luciopileggi/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: lussoluca
   id: 436670
@@ -772,6 +814,7 @@
   events_url: https://api.github.com/users/lussoluca/events{/privacy}
   received_events_url: https://api.github.com/users/lussoluca/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: ma82
   id: 25948
@@ -790,6 +833,7 @@
   events_url: https://api.github.com/users/ma82/events{/privacy}
   received_events_url: https://api.github.com/users/ma82/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: marcoalbarelli
   id: 789508
@@ -808,6 +852,7 @@
   events_url: https://api.github.com/users/marcoalbarelli/events{/privacy}
   received_events_url: https://api.github.com/users/marcoalbarelli/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: MarcoGargano
   id: 3099816
@@ -826,6 +871,7 @@
   events_url: https://api.github.com/users/MarcoGargano/events{/privacy}
   received_events_url: https://api.github.com/users/MarcoGargano/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: MatteCarra
   id: 11074527
@@ -844,6 +890,7 @@
   events_url: https://api.github.com/users/MatteCarra/events{/privacy}
   received_events_url: https://api.github.com/users/MatteCarra/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: matteodesanti
   id: 8171284
@@ -862,6 +909,7 @@
   events_url: https://api.github.com/users/matteodesanti/events{/privacy}
   received_events_url: https://api.github.com/users/matteodesanti/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: maurovitale
   id: 4927957
@@ -880,6 +928,7 @@
   events_url: https://api.github.com/users/maurovitale/events{/privacy}
   received_events_url: https://api.github.com/users/maurovitale/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: mjhost
   id: 1660916
@@ -898,6 +947,7 @@
   events_url: https://api.github.com/users/mjhost/events{/privacy}
   received_events_url: https://api.github.com/users/mjhost/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: nzambello
   id: 21101435
@@ -916,6 +966,7 @@
   events_url: https://api.github.com/users/nzambello/events{/privacy}
   received_events_url: https://api.github.com/users/nzambello/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: paolo-de-rosa
   id: 569002
@@ -934,6 +985,7 @@
   events_url: https://api.github.com/users/paolo-de-rosa/events{/privacy}
   received_events_url: https://api.github.com/users/paolo-de-rosa/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: paoloromolini
   id: 12033921
@@ -952,6 +1004,7 @@
   events_url: https://api.github.com/users/paoloromolini/events{/privacy}
   received_events_url: https://api.github.com/users/paoloromolini/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: pdavide
   id: 9119858
@@ -970,6 +1023,7 @@
   events_url: https://api.github.com/users/pdavide/events{/privacy}
   received_events_url: https://api.github.com/users/pdavide/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: peppelinux
   id: 1297620
@@ -988,6 +1042,7 @@
   events_url: https://api.github.com/users/peppelinux/events{/privacy}
   received_events_url: https://api.github.com/users/peppelinux/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: pnicolli
   id: 14176608
@@ -1006,6 +1061,7 @@
   events_url: https://api.github.com/users/pnicolli/events{/privacy}
   received_events_url: https://api.github.com/users/pnicolli/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: psmiraglia
   id: 921247
@@ -1024,6 +1080,7 @@
   events_url: https://api.github.com/users/psmiraglia/events{/privacy}
   received_events_url: https://api.github.com/users/psmiraglia/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: rasky
   id: 1014109
@@ -1042,6 +1099,7 @@
   events_url: https://api.github.com/users/rasky/events{/privacy}
   received_events_url: https://api.github.com/users/rasky/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: robertogallea
   id: 19411470
@@ -1060,6 +1118,7 @@
   events_url: https://api.github.com/users/robertogallea/events{/privacy}
   received_events_url: https://api.github.com/users/robertogallea/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: ruphy
   id: 2030
@@ -1078,6 +1137,7 @@
   events_url: https://api.github.com/users/ruphy/events{/privacy}
   received_events_url: https://api.github.com/users/ruphy/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: salgio
   id: 32614646
@@ -1096,6 +1156,7 @@
   events_url: https://api.github.com/users/salgio/events{/privacy}
   received_events_url: https://api.github.com/users/salgio/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: sanyamdogra
   id: 33497630
@@ -1114,6 +1175,7 @@
   events_url: https://api.github.com/users/sanyamdogra/events{/privacy}
   received_events_url: https://api.github.com/users/sanyamdogra/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: sebbalex
   id: 11008116
@@ -1132,6 +1194,7 @@
   events_url: https://api.github.com/users/sebbalex/events{/privacy}
   received_events_url: https://api.github.com/users/sebbalex/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: silviorelli
   id: 207363
@@ -1150,6 +1213,7 @@
   events_url: https://api.github.com/users/silviorelli/events{/privacy}
   received_events_url: https://api.github.com/users/silviorelli/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: sklivvz
   id: 750257
@@ -1168,6 +1232,7 @@
   events_url: https://api.github.com/users/sklivvz/events{/privacy}
   received_events_url: https://api.github.com/users/sklivvz/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: srescio
   id: 6099979
@@ -1186,6 +1251,7 @@
   events_url: https://api.github.com/users/srescio/events{/privacy}
   received_events_url: https://api.github.com/users/srescio/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: taganaka
   id: 386629
@@ -1204,6 +1270,7 @@
   events_url: https://api.github.com/users/taganaka/events{/privacy}
   received_events_url: https://api.github.com/users/taganaka/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: umbros
   id: 4085151
@@ -1222,6 +1289,7 @@
   events_url: https://api.github.com/users/umbros/events{/privacy}
   received_events_url: https://api.github.com/users/umbros/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: valeriopaolini
   id: 729301
@@ -1240,6 +1308,7 @@
   events_url: https://api.github.com/users/valeriopaolini/events{/privacy}
   received_events_url: https://api.github.com/users/valeriopaolini/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: walter-arrighetti
   id: 1493024
@@ -1258,6 +1327,7 @@
   events_url: https://api.github.com/users/walter-arrighetti/events{/privacy}
   received_events_url: https://api.github.com/users/walter-arrighetti/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: yakky
   id: 714711
@@ -1276,6 +1346,7 @@
   events_url: https://api.github.com/users/yakky/events{/privacy}
   received_events_url: https://api.github.com/users/yakky/received_events
   type: User
+  user_view_type: public
   site_admin: false
 - login: zetareticoli
   id: 69706
@@ -1294,4 +1365,5 @@
   events_url: https://api.github.com/users/zetareticoli/events{/privacy}
   received_events_url: https://api.github.com/users/zetareticoli/received_events
   type: User
+  user_view_type: public
   site_admin: false
