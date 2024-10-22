@@ -209,6 +209,28 @@
     name: Daniele Pizzolli
     avatar_url: https://avatars.githubusercontent.com/u/98891499?v=4
     html_url: https://github.com/dptdgi
+- name: Crawler 1.4.1
+  id: 11340635
+  node_id: T_kwDOAOqloM4ArQtb
+  slug: crawler-1-4-1
+  description: ''
+  privacy: closed
+  notification_setting: notifications_enabled
+  url: https://api.github.com/organizations/15377824/team/11340635
+  html_url: https://github.com/orgs/italia/teams/crawler-1-4-1
+  members_url: https://api.github.com/organizations/15377824/team/11340635/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/11340635/repos
+  permission: pull
+  parent: 
+  members:
+  - login: tensor5
+    name: Nicola Squartini
+    avatar_url: https://avatars.githubusercontent.com/u/1545895?v=4
+    html_url: https://github.com/tensor5
+  - login: GiandonatoGreco
+    name: Giandonato Greco
+    avatar_url: https://avatars.githubusercontent.com/u/102388751?v=4
+    html_url: https://github.com/GiandonatoGreco
 - name: datigov
   id: 3127970
   node_id: MDQ6VGVhbTMxMjc5NzA=
