@@ -550,6 +550,25 @@
   type: User
   user_view_type: public
   site_admin: false
+- login: GiandonatoGreco
+  id: 102388751
+  node_id: U_kgDOBhpUDw
+  avatar_url: https://avatars.githubusercontent.com/u/102388751?v=4
+  gravatar_id: ''
+  url: https://api.github.com/users/GiandonatoGreco
+  html_url: https://github.com/GiandonatoGreco
+  followers_url: https://api.github.com/users/GiandonatoGreco/followers
+  following_url: https://api.github.com/users/GiandonatoGreco/following{/other_user}
+  gists_url: https://api.github.com/users/GiandonatoGreco/gists{/gist_id}
+  starred_url: https://api.github.com/users/GiandonatoGreco/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/GiandonatoGreco/subscriptions
+  organizations_url: https://api.github.com/users/GiandonatoGreco/orgs
+  repos_url: https://api.github.com/users/GiandonatoGreco/repos
+  events_url: https://api.github.com/users/GiandonatoGreco/events{/privacy}
+  received_events_url: https://api.github.com/users/GiandonatoGreco/received_events
+  type: User
+  user_view_type: public
+  site_admin: false
 - login: giux78
   id: 2806256
   node_id: MDQ6VXNlcjI4MDYyNTY=
