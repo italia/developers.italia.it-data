@@ -529,10 +529,6 @@
   permission: pull
   parent: 
   members:
-  - login: ruphy
-    name: Riccardo Iaconelli
-    avatar_url: https://avatars.githubusercontent.com/u/2030?v=4
-    html_url: https://github.com/ruphy
   - login: grausof
     name: Francesco Grauso
     avatar_url: https://avatars.githubusercontent.com/u/442709?v=4
@@ -557,12 +553,20 @@
     name: 
     avatar_url: https://avatars.githubusercontent.com/u/77629526?v=4
     html_url: https://github.com/fmarino-ipzs
+  - login: LCestoni
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/103736643?v=4
+    html_url: https://github.com/LCestoni
   - login: mikpozzo93
     name: 
     avatar_url: https://avatars.githubusercontent.com/u/121040430?v=4
     html_url: https://github.com/mikpozzo93
-  - login: RosaliaGaleano
+  - login: costanzarosati
     name: 
+    avatar_url: https://avatars.githubusercontent.com/u/126264837?v=4
+    html_url: https://github.com/costanzarosati
+  - login: RosaliaGaleano
+    name: Lia
     avatar_url: https://avatars.githubusercontent.com/u/139998796?v=4
     html_url: https://github.com/RosaliaGaleano
   - login: gmessori18
@@ -674,7 +678,7 @@
     avatar_url: https://avatars.githubusercontent.com/u/121040430?v=4
     html_url: https://github.com/mikpozzo93
   - login: RosaliaGaleano
-    name: 
+    name: Lia
     avatar_url: https://avatars.githubusercontent.com/u/139998796?v=4
     html_url: https://github.com/RosaliaGaleano
   - login: dFDiegoACN
