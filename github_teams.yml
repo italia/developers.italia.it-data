@@ -631,6 +631,32 @@
     name: 
     avatar_url: https://avatars.githubusercontent.com/u/174037173?v=4
     html_url: https://github.com/folivanti
+- name: IT-Wallet-PagoPA
+  id: 11573942
+  node_id: T_kwDOAOqloM4AsJq2
+  slug: it-wallet-pagopa
+  description: ''
+  privacy: closed
+  notification_setting: notifications_enabled
+  url: https://api.github.com/organizations/15377824/team/11573942
+  html_url: https://github.com/orgs/italia/teams/it-wallet-pagopa
+  members_url: https://api.github.com/organizations/15377824/team/11573942/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/11573942/repos
+  permission: pull
+  parent: 
+  members:
+  - login: grausof
+    name: Francesco Grauso
+    avatar_url: https://avatars.githubusercontent.com/u/442709?v=4
+    html_url: https://github.com/grausof
+  - login: peppelinux
+    name: Giuseppe De Marco
+    avatar_url: https://avatars.githubusercontent.com/u/1297620?v=4
+    html_url: https://github.com/peppelinux
+  - login: mikpozzo93
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/121040430?v=4
+    html_url: https://github.com/mikpozzo93
 - name: LLGG-IT-Wallet
   id: 11210514
   node_id: T_kwDOAOqloM4Aqw8S
