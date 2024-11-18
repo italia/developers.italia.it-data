@@ -593,6 +593,40 @@
     name: Gaetano Capasso
     avatar_url: https://avatars.githubusercontent.com/u/187626072?v=4
     html_url: https://github.com/gaecapdtd
+- name: IT-Wallet-IPZS
+  id: 11575076
+  node_id: T_kwDOAOqloM4AsJ8k
+  slug: it-wallet-ipzs
+  description: ''
+  privacy: closed
+  notification_setting: notifications_enabled
+  url: https://api.github.com/organizations/15377824/team/11575076
+  html_url: https://github.com/orgs/italia/teams/it-wallet-ipzs
+  members_url: https://api.github.com/organizations/15377824/team/11575076/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/11575076/repos
+  permission: pull
+  parent: 
+  members:
+  - login: peppelinux
+    name: Giuseppe De Marco
+    avatar_url: https://avatars.githubusercontent.com/u/1297620?v=4
+    html_url: https://github.com/peppelinux
+  - login: andemaria
+    name: Andrea De Maria
+    avatar_url: https://avatars.githubusercontent.com/u/26910179?v=4
+    html_url: https://github.com/andemaria
+  - login: fventola-ipzs
+    name: Francesco Ventola
+    avatar_url: https://avatars.githubusercontent.com/u/52777735?v=4
+    html_url: https://github.com/fventola-ipzs
+  - login: fmarino-ipzs
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/77629526?v=4
+    html_url: https://github.com/fmarino-ipzs
+  - login: m-basili
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/175416040?v=4
+    html_url: https://github.com/m-basili
 - name: IT-Wallet-Legals
   id: 10393989
   node_id: T_kwDOAOqloM4AnpmF
@@ -649,14 +683,14 @@
     name: Francesco Grauso
     avatar_url: https://avatars.githubusercontent.com/u/442709?v=4
     html_url: https://github.com/grausof
-  - login: peppelinux
-    name: Giuseppe De Marco
-    avatar_url: https://avatars.githubusercontent.com/u/1297620?v=4
-    html_url: https://github.com/peppelinux
   - login: mikpozzo93
     name: 
     avatar_url: https://avatars.githubusercontent.com/u/121040430?v=4
     html_url: https://github.com/mikpozzo93
+  - login: SaraVillani
+    name: 
+    avatar_url: https://avatars.githubusercontent.com/u/188469651?v=4
+    html_url: https://github.com/SaraVillani
 - name: LLGG-IT-Wallet
   id: 11210514
   node_id: T_kwDOAOqloM4Aqw8S
