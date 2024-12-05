@@ -436,6 +436,25 @@
   type: User
   user_view_type: public
   site_admin: false
+- login: dptdgi
+  id: 98891499
+  node_id: U_kgDOBeT26w
+  avatar_url: https://avatars.githubusercontent.com/u/98891499?v=4
+  gravatar_id: ''
+  url: https://api.github.com/users/dptdgi
+  html_url: https://github.com/dptdgi
+  followers_url: https://api.github.com/users/dptdgi/followers
+  following_url: https://api.github.com/users/dptdgi/following{/other_user}
+  gists_url: https://api.github.com/users/dptdgi/gists{/gist_id}
+  starred_url: https://api.github.com/users/dptdgi/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/dptdgi/subscriptions
+  organizations_url: https://api.github.com/users/dptdgi/orgs
+  repos_url: https://api.github.com/users/dptdgi/repos
+  events_url: https://api.github.com/users/dptdgi/events{/privacy}
+  received_events_url: https://api.github.com/users/dptdgi/received_events
+  type: User
+  user_view_type: public
+  site_admin: false
 - login: engineering87
   id: 11808127
   node_id: MDQ6VXNlcjExODA4MTI3
