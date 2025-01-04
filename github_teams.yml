@@ -11,7 +11,7 @@
   members_url: https://api.github.com/organizations/15377824/team/2539345/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2539345/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: alranel
     name: Alessandro Ranellucci
@@ -29,7 +29,7 @@
   members_url: https://api.github.com/organizations/15377824/team/2263028/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2263028/repos
   permission: pull
-  parent: 
+  parent:
   members: []
 - name: ANSC
   id: 7383084
@@ -43,7 +43,7 @@
   members_url: https://api.github.com/organizations/15377824/team/7383084/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/7383084/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: amusarra
     name: Antonio Musarra
@@ -54,15 +54,15 @@
     avatar_url: https://avatars.githubusercontent.com/u/1104926?v=4
     html_url: https://github.com/mfortini
   - login: gbuemi
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/26254765?v=4
     html_url: https://github.com/gbuemi
   - login: rvinzani
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/26482893?v=4
     html_url: https://github.com/rvinzani
   - login: asqueglia
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/29303629?v=4
     html_url: https://github.com/asqueglia
   - login: mttfranci
@@ -70,19 +70,19 @@
     avatar_url: https://avatars.githubusercontent.com/u/29305782?v=4
     html_url: https://github.com/mttfranci
   - login: anbatistini
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/51232022?v=4
     html_url: https://github.com/anbatistini
   - login: rfamiglini
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/88545256?v=4
     html_url: https://github.com/rfamiglini
   - login: costanzarosati
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/126264837?v=4
     html_url: https://github.com/costanzarosati
   - login: fcoraciDTD
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/150461888?v=4
     html_url: https://github.com/fcoraciDTD
 - name: ANSC Admins
@@ -120,7 +120,7 @@
     avatar_url: https://avatars.githubusercontent.com/u/1104926?v=4
     html_url: https://github.com/mfortini
   - login: asqueglia
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/29303629?v=4
     html_url: https://github.com/asqueglia
   - login: mttfranci
@@ -139,7 +139,7 @@
   members_url: https://api.github.com/organizations/15377824/team/8106867/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/8106867/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: mfortini
     name: Matteo Fortini
@@ -150,7 +150,7 @@
     avatar_url: https://avatars.githubusercontent.com/u/8019448?v=4
     html_url: https://github.com/denismarini
   - login: ldoneda
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/139358239?v=4
     html_url: https://github.com/ldoneda
   - login: davidelongo-ey
@@ -169,7 +169,7 @@
   members_url: https://api.github.com/organizations/15377824/team/2546078/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2546078/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: andemaria
     name: Andrea De Maria
@@ -184,7 +184,7 @@
     avatar_url: https://avatars.githubusercontent.com/u/26923305?v=4
     html_url: https://github.com/fottavi
   - login: fmarino-ipzs
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/77629526?v=4
     html_url: https://github.com/fmarino-ipzs
 - name: Cloud
@@ -199,7 +199,7 @@
   members_url: https://api.github.com/organizations/15377824/team/3027292/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/3027292/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: luciopileggi
     name: Lucio Pileggi
@@ -221,7 +221,7 @@
   members_url: https://api.github.com/organizations/15377824/team/11340635/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/11340635/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: tensor5
     name: Nicola Squartini
@@ -232,7 +232,7 @@
     avatar_url: https://avatars.githubusercontent.com/u/102388751?v=4
     html_url: https://github.com/GiandonatoGreco
   - login: lorenzo-vernocchi
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/103134366?v=4
     html_url: https://github.com/lorenzo-vernocchi
   - login: simone-amadio-acn
@@ -240,7 +240,7 @@
     avatar_url: https://avatars.githubusercontent.com/u/109584243?v=4
     html_url: https://github.com/simone-amadio-acn
   - login: AZDTD
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/188175039?v=4
     html_url: https://github.com/AZDTD
 - name: datigov
@@ -255,10 +255,10 @@
   members_url: https://api.github.com/organizations/15377824/team/3127970/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/3127970/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: giorgialodi
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/24624577?v=4
     html_url: https://github.com/giorgialodi
 - name: designers
@@ -273,7 +273,7 @@
   members_url: https://api.github.com/organizations/15377824/team/2374583/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2374583/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: zetareticoli
     name: Francesco Improta
@@ -296,7 +296,7 @@
     avatar_url: https://avatars.githubusercontent.com/u/6736103?v=4
     html_url: https://github.com/Fupete
   - login: steps88
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/91465481?v=4
     html_url: https://github.com/steps88
   - login: danielenole
@@ -315,7 +315,7 @@
   members_url: https://api.github.com/organizations/15377824/team/7042944/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/7042944/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: Fupete
     name: Daniele T.
@@ -326,7 +326,7 @@
     avatar_url: https://avatars.githubusercontent.com/u/30351061?v=4
     html_url: https://github.com/gianvitofanelli
   - login: MCAlker
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/117438657?v=4
     html_url: https://github.com/MCAlker
 - name: Developers
@@ -341,7 +341,7 @@
   members_url: https://api.github.com/organizations/15377824/team/2539353/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2539353/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: ruphy
     name: Riccardo Iaconelli
@@ -379,7 +379,7 @@
   members_url: https://api.github.com/organizations/15377824/team/3127975/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/3127975/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: dptdgi
     name: Daniele Pizzolli
@@ -397,7 +397,7 @@
   members_url: https://api.github.com/organizations/15377824/team/2541934/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2541934/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: pdavide
     name: Davide Porrovecchio
@@ -415,7 +415,7 @@
   members_url: https://api.github.com/organizations/15377824/team/6563053/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/6563053/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: zetareticoli
     name: Francesco Improta
@@ -441,7 +441,7 @@
   members_url: https://api.github.com/organizations/15377824/team/6563067/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/6563067/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: zetareticoli
     name: Francesco Improta
@@ -468,7 +468,7 @@
   members_url: https://api.github.com/organizations/15377824/team/6335572/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/6335572/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: zetareticoli
     name: Francesco Improta
@@ -495,7 +495,7 @@
   members_url: https://api.github.com/organizations/15377824/team/6335570/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/6335570/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: Fupete
     name: Daniele T.
@@ -513,7 +513,7 @@
   members_url: https://api.github.com/organizations/15377824/team/3127979/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/3127979/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: cloudify
     name: Federico Feroldi
@@ -535,7 +535,7 @@
   members_url: https://api.github.com/organizations/15377824/team/7962426/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/7962426/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: grausof
     name: Francesco Grauso
@@ -554,15 +554,15 @@
     avatar_url: https://avatars.githubusercontent.com/u/26910179?v=4
     html_url: https://github.com/andemaria
   - login: AntonioFlorio
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/53568596?v=4
     html_url: https://github.com/AntonioFlorio
   - login: fmarino-ipzs
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/77629526?v=4
     html_url: https://github.com/fmarino-ipzs
   - login: LCestoni
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/103736643?v=4
     html_url: https://github.com/LCestoni
   - login: ChiaLeon
@@ -570,11 +570,11 @@
     avatar_url: https://avatars.githubusercontent.com/u/112159908?v=4
     html_url: https://github.com/ChiaLeon
   - login: mikpozzo93
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/121040430?v=4
     html_url: https://github.com/mikpozzo93
   - login: costanzarosati
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/126264837?v=4
     html_url: https://github.com/costanzarosati
   - login: RosaliaGaleano
@@ -582,11 +582,11 @@
     avatar_url: https://avatars.githubusercontent.com/u/139998796?v=4
     html_url: https://github.com/RosaliaGaleano
   - login: gmessori18
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/174037001?v=4
     html_url: https://github.com/gmessori18
   - login: folivanti
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/174037173?v=4
     html_url: https://github.com/folivanti
   - login: dFDiegoACN
@@ -609,7 +609,7 @@
   members_url: https://api.github.com/organizations/15377824/team/11575076/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/11575076/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: peppelinux
     name: Giuseppe De Marco
@@ -624,15 +624,15 @@
     avatar_url: https://avatars.githubusercontent.com/u/52777735?v=4
     html_url: https://github.com/fventola-ipzs
   - login: fmarino-ipzs
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/77629526?v=4
     html_url: https://github.com/fmarino-ipzs
   - login: gbrancato-ipzs
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/165043735?v=4
     html_url: https://github.com/gbrancato-ipzs
   - login: m-basili
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/175416040?v=4
     html_url: https://github.com/m-basili
 - name: IT-Wallet-Legals
@@ -666,11 +666,11 @@
     avatar_url: https://avatars.githubusercontent.com/u/1297620?v=4
     html_url: https://github.com/peppelinux
   - login: gmessori18
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/174037001?v=4
     html_url: https://github.com/gmessori18
   - login: folivanti
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/174037173?v=4
     html_url: https://github.com/folivanti
 - name: IT-Wallet-PagoPA
@@ -685,22 +685,22 @@
   members_url: https://api.github.com/organizations/15377824/team/11573942/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/11573942/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: grausof
     name: Francesco Grauso
     avatar_url: https://avatars.githubusercontent.com/u/442709?v=4
     html_url: https://github.com/grausof
   - login: Alicea92
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/85158656?v=4
     html_url: https://github.com/Alicea92
   - login: mikpozzo93
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/121040430?v=4
     html_url: https://github.com/mikpozzo93
   - login: silviafulci
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/125363488?v=4
     html_url: https://github.com/silviafulci
   - login: MatteoPaletta
@@ -708,11 +708,11 @@
     avatar_url: https://avatars.githubusercontent.com/u/140695965?v=4
     html_url: https://github.com/MatteoPaletta
   - login: AntoPaparella
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/187265732?v=4
     html_url: https://github.com/AntoPaparella
   - login: SaraVillani
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/188469651?v=4
     html_url: https://github.com/SaraVillani
 - name: LLGG-IT-Wallet
@@ -758,15 +758,15 @@
     avatar_url: https://avatars.githubusercontent.com/u/26910179?v=4
     html_url: https://github.com/andemaria
   - login: AntonioFlorio
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/53568596?v=4
     html_url: https://github.com/AntonioFlorio
   - login: fmarino-ipzs
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/77629526?v=4
     html_url: https://github.com/fmarino-ipzs
   - login: mikpozzo93
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/121040430?v=4
     html_url: https://github.com/mikpozzo93
   - login: RosaliaGaleano
@@ -789,7 +789,7 @@
   members_url: https://api.github.com/organizations/15377824/team/2491394/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2491394/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: mfortini
     name: Matteo Fortini
@@ -811,7 +811,7 @@
   members_url: https://api.github.com/organizations/15377824/team/2513878/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2513878/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: cloudify
     name: Federico Feroldi
@@ -822,7 +822,7 @@
     avatar_url: https://avatars.githubusercontent.com/u/30597088?v=4
     html_url: https://github.com/giuseppevirgone
   - login: gammam
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/42178449?v=4
     html_url: https://github.com/gammam
 - name: pagoPA-SIA
@@ -837,7 +837,7 @@
   members_url: https://api.github.com/organizations/15377824/team/3407974/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/3407974/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: alranel
     name: Alessandro Ranellucci
@@ -860,7 +860,7 @@
   members_url: https://api.github.com/organizations/15377824/team/2539388/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2539388/repos
   permission: pull
-  parent: 
+  parent:
   members:
   - login: peppelinux
     name: Giuseppe De Marco
@@ -879,6 +879,6 @@
     avatar_url: https://avatars.githubusercontent.com/u/37112452?v=4
     html_url: https://github.com/nunzionapoli
   - login: AntonioFlorio
-    name: 
+    name:
     avatar_url: https://avatars.githubusercontent.com/u/53568596?v=4
     html_url: https://github.com/AntonioFlorio
