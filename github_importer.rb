@@ -30,12 +30,11 @@ GITHUB_TOKEN = ENV.fetch('GITHUB_TOKEN', '')
 
 SAVE_TO_REPO = "italia/developers.italia.it-data"
 
-def fetch(url, headers = {})
+def fetch(url, headers = {}, params = {})
   rest_params = {
     'per_page' => 100,
-    'page' => 1,
-    'type' => 'public'
-  }
+    'page' => 1
+  }.merge(params)
 
   results = []
   loop do
@@ -144,6 +143,8 @@ repos = ORGS.map do |org|
   fetch(
     "https://api.github.com/orgs/#{org}/repos", {
       accept: 'application/vnd.github.mercy-preview+json'
+    }, {
+      type: 'public'
     }
   )
 end.flatten.reject { |r| r['archived'] || r['disabled'] }
