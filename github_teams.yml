@@ -10,6 +10,8 @@
   html_url: https://github.com/orgs/italia/teams/18app
   members_url: https://api.github.com/organizations/15377824/team/2539345/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2539345/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -28,6 +30,8 @@
   html_url: https://github.com/orgs/italia/teams/anpr
   members_url: https://api.github.com/organizations/15377824/team/2263028/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2263028/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members: []
@@ -42,6 +46,8 @@
   html_url: https://github.com/orgs/italia/teams/ansc
   members_url: https://api.github.com/organizations/15377824/team/7383084/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/7383084/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -96,6 +102,8 @@
   html_url: https://github.com/orgs/italia/teams/ansc-admins
   members_url: https://api.github.com/organizations/15377824/team/8851500/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/8851500/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
     name: ANSC
@@ -109,6 +117,8 @@
     html_url: https://github.com/orgs/italia/teams/ansc
     members_url: https://api.github.com/organizations/15377824/team/7383084/members{/member}
     repositories_url: https://api.github.com/organizations/15377824/team/7383084/repos
+    type: organization
+    organization_id: 15377824
     permission: pull
   members:
   - login: amusarra
@@ -138,6 +148,8 @@
   html_url: https://github.com/orgs/italia/teams/api-padigitale2026-misura1-3-1-uni-afam
   members_url: https://api.github.com/organizations/15377824/team/8106867/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/8106867/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -164,6 +176,8 @@
   html_url: https://github.com/orgs/italia/teams/cie
   members_url: https://api.github.com/organizations/15377824/team/2546078/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2546078/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -194,6 +208,8 @@
   html_url: https://github.com/orgs/italia/teams/cloud
   members_url: https://api.github.com/organizations/15377824/team/3027292/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/3027292/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -216,6 +232,8 @@
   html_url: https://github.com/orgs/italia/teams/crawler-1-4-1
   members_url: https://api.github.com/organizations/15377824/team/11340635/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/11340635/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -235,6 +253,10 @@
     name: Simone Amadio
     avatar_url: https://avatars.githubusercontent.com/u/109584243?v=4
     html_url: https://github.com/simone-amadio-acn
+  - login: lsalerno91
+    name: lorenzo salerno
+    avatar_url: https://avatars.githubusercontent.com/u/160484878?v=4
+    html_url: https://github.com/lsalerno91
   - login: AZDTD
     name:
     avatar_url: https://avatars.githubusercontent.com/u/188175039?v=4
@@ -250,6 +272,8 @@
   html_url: https://github.com/orgs/italia/teams/datigov
   members_url: https://api.github.com/organizations/15377824/team/3127970/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/3127970/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -268,6 +292,8 @@
   html_url: https://github.com/orgs/italia/teams/designers
   members_url: https://api.github.com/organizations/15377824/team/2374583/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2374583/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -279,10 +305,6 @@
     name: Andrea Stagi
     avatar_url: https://avatars.githubusercontent.com/u/537363?v=4
     html_url: https://github.com/astagi
-  - login: bfabio
-    name: Fabio Bonelli
-    avatar_url: https://avatars.githubusercontent.com/u/788293?v=4
-    html_url: https://github.com/bfabio
   - login: Lorezz
     name: Lorenzo Ponticelli
     avatar_url: https://avatars.githubusercontent.com/u/1153066?v=4
@@ -310,6 +332,8 @@
   html_url: https://github.com/orgs/italia/teams/designers-triage
   members_url: https://api.github.com/organizations/15377824/team/7042944/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/7042944/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -336,21 +360,15 @@
   html_url: https://github.com/orgs/italia/teams/developers
   members_url: https://api.github.com/organizations/15377824/team/2539353/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2539353/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
-  - login: ruphy
-    name: Riccardo Iaconelli
-    avatar_url: https://avatars.githubusercontent.com/u/2030?v=4
-    html_url: https://github.com/ruphy
   - login: astagi
     name: Andrea Stagi
     avatar_url: https://avatars.githubusercontent.com/u/537363?v=4
     html_url: https://github.com/astagi
-  - login: bfabio
-    name: Fabio Bonelli
-    avatar_url: https://avatars.githubusercontent.com/u/788293?v=4
-    html_url: https://github.com/bfabio
   - login: mfortini
     name: Matteo Fortini
     avatar_url: https://avatars.githubusercontent.com/u/1104926?v=4
@@ -363,6 +381,14 @@
     name: Nicola Squartini
     avatar_url: https://avatars.githubusercontent.com/u/1545895?v=4
     html_url: https://github.com/tensor5
+  - login: valeriocomo
+    name: Valerio
+    avatar_url: https://avatars.githubusercontent.com/u/7393493?v=4
+    html_url: https://github.com/valeriocomo
+  - login: AlexPalaz
+    name:
+    avatar_url: https://avatars.githubusercontent.com/u/19190387?v=4
+    html_url: https://github.com/AlexPalaz
 - name: DevOps
   id: 3127975
   node_id: MDQ6VGVhbTMxMjc5NzU=
@@ -374,9 +400,15 @@
   html_url: https://github.com/orgs/italia/teams/devops
   members_url: https://api.github.com/organizations/15377824/team/3127975/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/3127975/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
+  - login: r4770
+    name: Raffaele Vitiello
+    avatar_url: https://avatars.githubusercontent.com/u/12156902?v=4
+    html_url: https://github.com/r4770
   - login: dptdgi
     name: Daniele Pizzolli
     avatar_url: https://avatars.githubusercontent.com/u/98891499?v=4
@@ -392,6 +424,8 @@
   html_url: https://github.com/orgs/italia/teams/docs-italia
   members_url: https://api.github.com/organizations/15377824/team/2541934/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2541934/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -410,6 +444,8 @@
   html_url: https://github.com/orgs/italia/teams/docs-italia-1-4-1-publishers
   members_url: https://api.github.com/organizations/15377824/team/6563053/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/6563053/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -436,6 +472,8 @@
   html_url: https://github.com/orgs/italia/teams/docs-italia-1-4-1-reviewers
   members_url: https://api.github.com/organizations/15377824/team/6563067/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/6563067/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -463,6 +501,8 @@
   html_url: https://github.com/orgs/italia/teams/docs-italia-design-publishers
   members_url: https://api.github.com/organizations/15377824/team/6335572/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/6335572/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -490,6 +530,8 @@
   html_url: https://github.com/orgs/italia/teams/docs-italia-design-reviewers
   members_url: https://api.github.com/organizations/15377824/team/6335570/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/6335570/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -508,6 +550,8 @@
   html_url: https://github.com/orgs/italia/teams/io
   members_url: https://api.github.com/organizations/15377824/team/3127979/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/3127979/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -519,6 +563,34 @@
     name: Matteo De Santi
     avatar_url: https://avatars.githubusercontent.com/u/8171284?v=4
     html_url: https://github.com/matteodesanti
+- name: IPZS-dev
+  id: 13638855
+  node_id: T_kwDOAOqloM4A0BzH
+  slug: ipzs-dev
+  description: ''
+  privacy: closed
+  notification_setting: notifications_enabled
+  url: https://api.github.com/organizations/15377824/team/13638855
+  html_url: https://github.com/orgs/italia/teams/ipzs-dev
+  members_url: https://api.github.com/organizations/15377824/team/13638855/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/13638855/repos
+  type: organization
+  organization_id: 15377824
+  permission: pull
+  parent:
+  members:
+  - login: peppelinux
+    name: Giuseppe De Marco
+    avatar_url: https://avatars.githubusercontent.com/u/1297620?v=4
+    html_url: https://github.com/peppelinux
+  - login: mciofo
+    name:
+    avatar_url: https://avatars.githubusercontent.com/u/221345615?v=4
+    html_url: https://github.com/mciofo
+  - login: manpace
+    name: Manuel P.
+    avatar_url: https://avatars.githubusercontent.com/u/221346462?v=4
+    html_url: https://github.com/manpace
 - name: IT-Wallet
   id: 7962426
   node_id: T_kwDOAOqloM4AeX86
@@ -530,6 +602,8 @@
   html_url: https://github.com/orgs/italia/teams/it-wallet
   members_url: https://api.github.com/organizations/15377824/team/7962426/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/7962426/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -553,6 +627,10 @@
     name:
     avatar_url: https://avatars.githubusercontent.com/u/53568596?v=4
     html_url: https://github.com/AntonioFlorio
+  - login: giovannibartolomeo01
+    name: Giovanni Bartolomeo
+    avatar_url: https://avatars.githubusercontent.com/u/62425565?v=4
+    html_url: https://github.com/giovannibartolomeo01
   - login: fmarino-ipzs
     name:
     avatar_url: https://avatars.githubusercontent.com/u/77629526?v=4
@@ -582,9 +660,13 @@
     avatar_url: https://avatars.githubusercontent.com/u/174037001?v=4
     html_url: https://github.com/gmessori18
   - login: folivanti
-    name:
+    name: Francesco Olivanti
     avatar_url: https://avatars.githubusercontent.com/u/174037173?v=4
     html_url: https://github.com/folivanti
+  - login: vcarollo
+    name:
+    avatar_url: https://avatars.githubusercontent.com/u/174641524?v=4
+    html_url: https://github.com/vcarollo
   - login: dFDiegoACN
     name: Diego de Felice (ACN)
     avatar_url: https://avatars.githubusercontent.com/u/182736531?v=4
@@ -604,6 +686,8 @@
   html_url: https://github.com/orgs/italia/teams/it-wallet-ipzs
   members_url: https://api.github.com/organizations/15377824/team/11575076/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/11575076/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -628,7 +712,7 @@
     avatar_url: https://avatars.githubusercontent.com/u/165043735?v=4
     html_url: https://github.com/gbrancato-ipzs
   - login: m-basili
-    name:
+    name: mbasili-ipzs
     avatar_url: https://avatars.githubusercontent.com/u/175416040?v=4
     html_url: https://github.com/m-basili
 - name: IT-Wallet-Legals
@@ -642,6 +726,8 @@
   html_url: https://github.com/orgs/italia/teams/it-wallet-legals
   members_url: https://api.github.com/organizations/15377824/team/10393989/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/10393989/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
     name: IT-Wallet
@@ -655,6 +741,8 @@
     html_url: https://github.com/orgs/italia/teams/it-wallet
     members_url: https://api.github.com/organizations/15377824/team/7962426/members{/member}
     repositories_url: https://api.github.com/organizations/15377824/team/7962426/repos
+    type: organization
+    organization_id: 15377824
     permission: pull
   members:
   - login: peppelinux
@@ -666,7 +754,7 @@
     avatar_url: https://avatars.githubusercontent.com/u/174037001?v=4
     html_url: https://github.com/gmessori18
   - login: folivanti
-    name:
+    name: Francesco Olivanti
     avatar_url: https://avatars.githubusercontent.com/u/174037173?v=4
     html_url: https://github.com/folivanti
 - name: IT-Wallet-PagoPA
@@ -680,6 +768,8 @@
   html_url: https://github.com/orgs/italia/teams/it-wallet-pagopa
   members_url: https://api.github.com/organizations/15377824/team/11573942/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/11573942/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -711,6 +801,38 @@
     name:
     avatar_url: https://avatars.githubusercontent.com/u/188469651?v=4
     html_url: https://github.com/SaraVillani
+- name: it-web-components
+  id: 13302725
+  node_id: T_kwDOAOqloM4AyvvF
+  slug: it-web-components
+  description: Team web components based on .italia DS
+  privacy: closed
+  notification_setting: notifications_enabled
+  url: https://api.github.com/organizations/15377824/team/13302725
+  html_url: https://github.com/orgs/italia/teams/it-web-components
+  members_url: https://api.github.com/organizations/15377824/team/13302725/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/13302725/repos
+  type: organization
+  organization_id: 15377824
+  permission: pull
+  parent:
+  members:
+  - login: astagi
+    name: Andrea Stagi
+    avatar_url: https://avatars.githubusercontent.com/u/537363?v=4
+    html_url: https://github.com/astagi
+  - login: pnicolli
+    name: Piero Nicolli
+    avatar_url: https://avatars.githubusercontent.com/u/14176608?v=4
+    html_url: https://github.com/pnicolli
+  - login: deodorhunter
+    name: Martina Bustacchini
+    avatar_url: https://avatars.githubusercontent.com/u/41484878?v=4
+    html_url: https://github.com/deodorhunter
+  - login: giuliaghisini
+    name: Giulia Ghisini
+    avatar_url: https://avatars.githubusercontent.com/u/51911425?v=4
+    html_url: https://github.com/giuliaghisini
 - name: LLGG-IT-Wallet
   id: 11210514
   node_id: T_kwDOAOqloM4Aqw8S
@@ -722,6 +844,8 @@
   html_url: https://github.com/orgs/italia/teams/llgg-it-wallet
   members_url: https://api.github.com/organizations/15377824/team/11210514/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/11210514/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
     name: IT-Wallet
@@ -735,6 +859,8 @@
     html_url: https://github.com/orgs/italia/teams/it-wallet
     members_url: https://api.github.com/organizations/15377824/team/7962426/members{/member}
     repositories_url: https://api.github.com/organizations/15377824/team/7962426/repos
+    type: organization
+    organization_id: 15377824
     permission: pull
   members:
   - login: grausof
@@ -784,6 +910,8 @@
   html_url: https://github.com/orgs/italia/teams/national-data-catalog-ndc
   members_url: https://api.github.com/organizations/15377824/team/2491394/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2491394/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -795,6 +923,54 @@
     name: Clou-dia
     avatar_url: https://avatars.githubusercontent.com/u/98462345?v=4
     html_url: https://github.com/Clou-dia
+- name: PA digitale 2026
+  id: 12852899
+  node_id: T_kwDOAOqloM4AxB6j
+  slug: pa-digitale-2026
+  description: ''
+  privacy: closed
+  notification_setting: notifications_enabled
+  url: https://api.github.com/organizations/15377824/team/12852899
+  html_url: https://github.com/orgs/italia/teams/pa-digitale-2026
+  members_url: https://api.github.com/organizations/15377824/team/12852899/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/12852899/repos
+  type: organization
+  organization_id: 15377824
+  permission: pull
+  parent:
+  members:
+  - login: bampnet
+    name: Mattia Pellizzon
+    avatar_url: https://avatars.githubusercontent.com/u/423652?v=4
+    html_url: https://github.com/bampnet
+  - login: wutupake
+    name: Maurizio F
+    avatar_url: https://avatars.githubusercontent.com/u/596579?v=4
+    html_url: https://github.com/wutupake
+  - login: erivello
+    name: Edoardo Rivello
+    avatar_url: https://avatars.githubusercontent.com/u/626131?v=4
+    html_url: https://github.com/erivello
+  - login: mrosati84
+    name: Matteo Rosati
+    avatar_url: https://avatars.githubusercontent.com/u/855068?v=4
+    html_url: https://github.com/mrosati84
+  - login: tensor5
+    name: Nicola Squartini
+    avatar_url: https://avatars.githubusercontent.com/u/1545895?v=4
+    html_url: https://github.com/tensor5
+  - login: danielenole
+    name: Daniele Nolè
+    avatar_url: https://avatars.githubusercontent.com/u/102873965?v=4
+    html_url: https://github.com/danielenole
+  - login: angela-recchia
+    name: Angela Recchia
+    avatar_url: https://avatars.githubusercontent.com/u/106972154?v=4
+    html_url: https://github.com/angela-recchia
+  - login: laurakqa95
+    name:
+    avatar_url: https://avatars.githubusercontent.com/u/205303013?v=4
+    html_url: https://github.com/laurakqa95
 - name: PagoPA
   id: 2513878
   node_id: MDQ6VGVhbTI1MTM4Nzg=
@@ -806,6 +982,8 @@
   html_url: https://github.com/orgs/italia/teams/pagopa
   members_url: https://api.github.com/organizations/15377824/team/2513878/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2513878/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -832,6 +1010,8 @@
   html_url: https://github.com/orgs/italia/teams/pagopa-sia
   members_url: https://api.github.com/organizations/15377824/team/3407974/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/3407974/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
@@ -855,6 +1035,8 @@
   html_url: https://github.com/orgs/italia/teams/spid
   members_url: https://api.github.com/organizations/15377824/team/2539388/members{/member}
   repositories_url: https://api.github.com/organizations/15377824/team/2539388/repos
+  type: organization
+  organization_id: 15377824
   permission: pull
   parent:
   members:
