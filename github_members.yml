@@ -512,25 +512,6 @@
   type: User
   user_view_type: public
   site_admin: false
-- login: fmarco
-  id: 7735024
-  node_id: MDQ6VXNlcjc3MzUwMjQ=
-  avatar_url: https://avatars.githubusercontent.com/u/7735024?v=4
-  gravatar_id: ''
-  url: https://api.github.com/users/fmarco
-  html_url: https://github.com/fmarco
-  followers_url: https://api.github.com/users/fmarco/followers
-  following_url: https://api.github.com/users/fmarco/following{/other_user}
-  gists_url: https://api.github.com/users/fmarco/gists{/gist_id}
-  starred_url: https://api.github.com/users/fmarco/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/fmarco/subscriptions
-  organizations_url: https://api.github.com/users/fmarco/orgs
-  repos_url: https://api.github.com/users/fmarco/repos
-  events_url: https://api.github.com/users/fmarco/events{/privacy}
-  received_events_url: https://api.github.com/users/fmarco/received_events
-  type: User
-  user_view_type: public
-  site_admin: false
 - login: francesco-filicetti
   id: 28479069
   node_id: MDQ6VXNlcjI4NDc5MDY5
@@ -1025,25 +1006,6 @@
   type: User
   user_view_type: public
   site_admin: false
-- login: paoloromolini
-  id: 12033921
-  node_id: MDQ6VXNlcjEyMDMzOTIx
-  avatar_url: https://avatars.githubusercontent.com/u/12033921?v=4
-  gravatar_id: ''
-  url: https://api.github.com/users/paoloromolini
-  html_url: https://github.com/paoloromolini
-  followers_url: https://api.github.com/users/paoloromolini/followers
-  following_url: https://api.github.com/users/paoloromolini/following{/other_user}
-  gists_url: https://api.github.com/users/paoloromolini/gists{/gist_id}
-  starred_url: https://api.github.com/users/paoloromolini/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/paoloromolini/subscriptions
-  organizations_url: https://api.github.com/users/paoloromolini/orgs
-  repos_url: https://api.github.com/users/paoloromolini/repos
-  events_url: https://api.github.com/users/paoloromolini/events{/privacy}
-  received_events_url: https://api.github.com/users/paoloromolini/received_events
-  type: User
-  user_view_type: public
-  site_admin: false
 - login: pdavide
   id: 9119858
   node_id: MDQ6VXNlcjkxMTk4NTg=
@@ -1310,6 +1272,25 @@
   type: User
   user_view_type: public
   site_admin: false
+- login: tensor5
+  id: 1545895
+  node_id: MDQ6VXNlcjE1NDU4OTU=
+  avatar_url: https://avatars.githubusercontent.com/u/1545895?v=4
+  gravatar_id: ''
+  url: https://api.github.com/users/tensor5
+  html_url: https://github.com/tensor5
+  followers_url: https://api.github.com/users/tensor5/followers
+  following_url: https://api.github.com/users/tensor5/following{/other_user}
+  gists_url: https://api.github.com/users/tensor5/gists{/gist_id}
+  starred_url: https://api.github.com/users/tensor5/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/tensor5/subscriptions
+  organizations_url: https://api.github.com/users/tensor5/orgs
+  repos_url: https://api.github.com/users/tensor5/repos
+  events_url: https://api.github.com/users/tensor5/events{/privacy}
+  received_events_url: https://api.github.com/users/tensor5/received_events
+  type: User
+  user_view_type: public
+  site_admin: false
 - login: umbros
   id: 4085151
   node_id: MDQ6VXNlcjQwODUxNTE=
@@ -1326,6 +1307,25 @@
   repos_url: https://api.github.com/users/umbros/repos
   events_url: https://api.github.com/users/umbros/events{/privacy}
   received_events_url: https://api.github.com/users/umbros/received_events
+  type: User
+  user_view_type: public
+  site_admin: false
+- login: valeriocomo
+  id: 7393493
+  node_id: MDQ6VXNlcjczOTM0OTM=
+  avatar_url: https://avatars.githubusercontent.com/u/7393493?v=4
+  gravatar_id: ''
+  url: https://api.github.com/users/valeriocomo
+  html_url: https://github.com/valeriocomo
+  followers_url: https://api.github.com/users/valeriocomo/followers
+  following_url: https://api.github.com/users/valeriocomo/following{/other_user}
+  gists_url: https://api.github.com/users/valeriocomo/gists{/gist_id}
+  starred_url: https://api.github.com/users/valeriocomo/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/valeriocomo/subscriptions
+  organizations_url: https://api.github.com/users/valeriocomo/orgs
+  repos_url: https://api.github.com/users/valeriocomo/repos
+  events_url: https://api.github.com/users/valeriocomo/events{/privacy}
+  received_events_url: https://api.github.com/users/valeriocomo/received_events
   type: User
   user_view_type: public
   site_admin: false
@@ -1364,25 +1364,6 @@
   repos_url: https://api.github.com/users/walter-arrighetti/repos
   events_url: https://api.github.com/users/walter-arrighetti/events{/privacy}
   received_events_url: https://api.github.com/users/walter-arrighetti/received_events
-  type: User
-  user_view_type: public
-  site_admin: false
-- login: yakky
-  id: 714711
-  node_id: MDQ6VXNlcjcxNDcxMQ==
-  avatar_url: https://avatars.githubusercontent.com/u/714711?v=4
-  gravatar_id: ''
-  url: https://api.github.com/users/yakky
-  html_url: https://github.com/yakky
-  followers_url: https://api.github.com/users/yakky/followers
-  following_url: https://api.github.com/users/yakky/following{/other_user}
-  gists_url: https://api.github.com/users/yakky/gists{/gist_id}
-  starred_url: https://api.github.com/users/yakky/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/yakky/subscriptions
-  organizations_url: https://api.github.com/users/yakky/orgs
-  repos_url: https://api.github.com/users/yakky/repos
-  events_url: https://api.github.com/users/yakky/events{/privacy}
-  received_events_url: https://api.github.com/users/yakky/received_events
   type: User
   user_view_type: public
   site_admin: false
