@@ -854,6 +854,25 @@
   type: User
   user_view_type: public
   site_admin: false
+- login: manpace
+  id: 221346462
+  node_id: U_kgDODTF6ng
+  avatar_url: https://avatars.githubusercontent.com/u/221346462?v=4
+  gravatar_id: ''
+  url: https://api.github.com/users/manpace
+  html_url: https://github.com/manpace
+  followers_url: https://api.github.com/users/manpace/followers
+  following_url: https://api.github.com/users/manpace/following{/other_user}
+  gists_url: https://api.github.com/users/manpace/gists{/gist_id}
+  starred_url: https://api.github.com/users/manpace/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/manpace/subscriptions
+  organizations_url: https://api.github.com/users/manpace/orgs
+  repos_url: https://api.github.com/users/manpace/repos
+  events_url: https://api.github.com/users/manpace/events{/privacy}
+  received_events_url: https://api.github.com/users/manpace/received_events
+  type: User
+  user_view_type: public
+  site_admin: false
 - login: marcoalbarelli
   id: 789508
   node_id: MDQ6VXNlcjc4OTUwOA==
