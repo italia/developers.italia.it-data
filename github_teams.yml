@@ -221,6 +221,58 @@
     name: Daniele Pizzolli
     avatar_url: https://avatars.githubusercontent.com/u/98891499?v=4
     html_url: https://github.com/dptdgi
+- name: cloud-amazon-team
+  id: 5725358
+  node_id: T_kwDOAOqloM4AV1yu
+  slug: cloud-amazon-team
+  description: ''
+  privacy: secret
+  notification_setting: notifications_enabled
+  url: https://api.github.com/organizations/15377824/team/5725358
+  html_url: https://github.com/orgs/italia/teams/cloud-amazon-team
+  members_url: https://api.github.com/organizations/15377824/team/5725358/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/5725358/repos
+  type: organization
+  organization_id: 15377824
+  permission: pull
+  parent:
+  members:
+  - login: lorello
+    name: LoreLLo
+    avatar_url: https://avatars.githubusercontent.com/u/694058?v=4
+    html_url: https://github.com/lorello
+  - login: dptdgi
+    name: Daniele Pizzolli
+    avatar_url: https://avatars.githubusercontent.com/u/98891499?v=4
+    html_url: https://github.com/dptdgi
+- name: cloud-microsoft-team
+  id: 5631204
+  node_id: T_kwDOAOqloM4AVezk
+  slug: cloud-microsoft-team
+  description: ''
+  privacy: secret
+  notification_setting: notifications_enabled
+  url: https://api.github.com/organizations/15377824/team/5631204
+  html_url: https://github.com/orgs/italia/teams/cloud-microsoft-team
+  members_url: https://api.github.com/organizations/15377824/team/5631204/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/5631204/repos
+  type: organization
+  organization_id: 15377824
+  permission: pull
+  parent:
+  members:
+  - login: MikeCer
+    name: Michele Cerreto
+    avatar_url: https://avatars.githubusercontent.com/u/1618166?v=4
+    html_url: https://github.com/MikeCer
+  - login: nicolgit
+    name: Nicola Delfino
+    avatar_url: https://avatars.githubusercontent.com/u/10533937?v=4
+    html_url: https://github.com/nicolgit
+  - login: dptdgi
+    name: Daniele Pizzolli
+    avatar_url: https://avatars.githubusercontent.com/u/98891499?v=4
+    html_url: https://github.com/dptdgi
 - name: Crawler 1.4.1
   id: 11340635
   node_id: T_kwDOAOqloM4ArQtb
@@ -539,6 +591,50 @@
     name: Daniele T.
     avatar_url: https://avatars.githubusercontent.com/u/6736103?v=4
     html_url: https://github.com/Fupete
+- name: google-cloud-team
+  id: 5411294
+  node_id: T_kwDOAOqloM4AUpHe
+  slug: google-cloud-team
+  description: ''
+  privacy: secret
+  notification_setting: notifications_enabled
+  url: https://api.github.com/organizations/15377824/team/5411294
+  html_url: https://github.com/orgs/italia/teams/google-cloud-team
+  members_url: https://api.github.com/organizations/15377824/team/5411294/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/5411294/repos
+  type: organization
+  organization_id: 15377824
+  permission: pull
+  parent:
+  members:
+  - login: GiuseppeCofano
+    name: Giuseppe Cofano
+    avatar_url: https://avatars.githubusercontent.com/u/6953708?v=4
+    html_url: https://github.com/GiuseppeCofano
+  - login: adibalsa
+    name: Arcangelo Di Balsamo
+    avatar_url: https://avatars.githubusercontent.com/u/17987165?v=4
+    html_url: https://github.com/adibalsa
+  - login: gielletm
+    name:
+    avatar_url: https://avatars.githubusercontent.com/u/42549089?v=4
+    html_url: https://github.com/gielletm
+  - login: lucianocastrocom
+    name:
+    avatar_url: https://avatars.githubusercontent.com/u/94474438?v=4
+    html_url: https://github.com/lucianocastrocom
+  - login: giusvill
+    name:
+    avatar_url: https://avatars.githubusercontent.com/u/95018864?v=4
+    html_url: https://github.com/giusvill
+  - login: sbellucc
+    name:
+    avatar_url: https://avatars.githubusercontent.com/u/95348583?v=4
+    html_url: https://github.com/sbellucc
+  - login: dptdgi
+    name: Daniele Pizzolli
+    avatar_url: https://avatars.githubusercontent.com/u/98891499?v=4
+    html_url: https://github.com/dptdgi
 - name: IO
   id: 3127979
   node_id: MDQ6VGVhbTMxMjc5Nzk=
