@@ -425,6 +425,10 @@
     name: Matteo Fortini
     avatar_url: https://avatars.githubusercontent.com/u/1104926?v=4
     html_url: https://github.com/mfortini
+  - login: Lorezz
+    name: Lorenzo Ponticelli
+    avatar_url: https://avatars.githubusercontent.com/u/1153066?v=4
+    html_url: https://github.com/Lorezz
   - login: peppelinux
     name: Giuseppe De Marco
     avatar_url: https://avatars.githubusercontent.com/u/1297620?v=4
@@ -481,6 +485,14 @@
   permission: pull
   parent:
   members:
+  - login: Lorezz
+    name: Lorenzo Ponticelli
+    avatar_url: https://avatars.githubusercontent.com/u/1153066?v=4
+    html_url: https://github.com/Lorezz
+  - login: tensor5
+    name: Nicola Squartini
+    avatar_url: https://avatars.githubusercontent.com/u/1545895?v=4
+    html_url: https://github.com/tensor5
   - login: pdavide
     name: Davide Porrovecchio
     avatar_url: https://avatars.githubusercontent.com/u/9119858?v=4
@@ -541,6 +553,30 @@
     name: Daniele Nolè
     avatar_url: https://avatars.githubusercontent.com/u/102873965?v=4
     html_url: https://github.com/danielenole
+- name: Docs Italia 2.0
+  id: 14862602
+  node_id: T_kwDOAOqloM4A4skK
+  slug: docs-italia-2-0
+  description: ''
+  privacy: closed
+  notification_setting: notifications_enabled
+  url: https://api.github.com/organizations/15377824/team/14862602
+  html_url: https://github.com/orgs/italia/teams/docs-italia-2-0
+  members_url: https://api.github.com/organizations/15377824/team/14862602/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/14862602/repos
+  type: organization
+  organization_id: 15377824
+  permission: pull
+  parent:
+  members:
+  - login: tensor5
+    name: Nicola Squartini
+    avatar_url: https://avatars.githubusercontent.com/u/1545895?v=4
+    html_url: https://github.com/tensor5
+  - login: denismarini
+    name: Denis Marini
+    avatar_url: https://avatars.githubusercontent.com/u/8019448?v=4
+    html_url: https://github.com/denismarini
 - name: Docs Italia Design - Publishers
   id: 6335572
   node_id: T_kwDOAOqloM4AYKxU
