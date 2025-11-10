@@ -569,6 +569,10 @@
   permission: pull
   parent:
   members:
+  - login: Lorezz
+    name: Lorenzo Ponticelli
+    avatar_url: https://avatars.githubusercontent.com/u/1153066?v=4
+    html_url: https://github.com/Lorezz
   - login: tensor5
     name: Nicola Squartini
     avatar_url: https://avatars.githubusercontent.com/u/1545895?v=4
