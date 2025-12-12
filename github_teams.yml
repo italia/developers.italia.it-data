@@ -569,6 +569,10 @@
   permission: pull
   parent:
   members:
+  - login: francescozaia
+    name: Francesco Zaia
+    avatar_url: https://avatars.githubusercontent.com/u/481084?v=4
+    html_url: https://github.com/francescozaia
   - login: Lorezz
     name: Lorenzo Ponticelli
     avatar_url: https://avatars.githubusercontent.com/u/1153066?v=4
@@ -581,6 +585,10 @@
     name: Denis Marini
     avatar_url: https://avatars.githubusercontent.com/u/8019448?v=4
     html_url: https://github.com/denismarini
+  - login: pdavide
+    name: Davide Porrovecchio
+    avatar_url: https://avatars.githubusercontent.com/u/9119858?v=4
+    html_url: https://github.com/pdavide
   - login: Suriano7
     name: Vincenzo Suriano
     avatar_url: https://avatars.githubusercontent.com/u/46743346?v=4
