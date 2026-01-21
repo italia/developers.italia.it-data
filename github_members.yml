@@ -569,6 +569,25 @@
   type: User
   user_view_type: public
   site_admin: false
+- login: giupal
+  id: 18263673
+  node_id: MDQ6VXNlcjE4MjYzNjcz
+  avatar_url: https://avatars.githubusercontent.com/u/18263673?v=4
+  gravatar_id: ''
+  url: https://api.github.com/users/giupal
+  html_url: https://github.com/giupal
+  followers_url: https://api.github.com/users/giupal/followers
+  following_url: https://api.github.com/users/giupal/following{/other_user}
+  gists_url: https://api.github.com/users/giupal/gists{/gist_id}
+  starred_url: https://api.github.com/users/giupal/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/giupal/subscriptions
+  organizations_url: https://api.github.com/users/giupal/orgs
+  repos_url: https://api.github.com/users/giupal/repos
+  events_url: https://api.github.com/users/giupal/events{/privacy}
+  received_events_url: https://api.github.com/users/giupal/received_events
+  type: User
+  user_view_type: public
+  site_admin: false
 - login: giux78
   id: 2806256
   node_id: MDQ6VXNlcjI4MDYyNTY=
