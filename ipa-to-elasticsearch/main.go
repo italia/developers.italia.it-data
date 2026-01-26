@@ -120,8 +120,8 @@ func _readCSVFromURL(url string) ([][]string, error) {
 
 func main() {
 	es, err := elastic.ClientFactory(
-		"https://elasticsearch.developers.italia.it/",
-		"elastic",
+		os.Getenv("ELASTIC_URL"),
+		os.Getenv("ELASTIC_USER"),
 		os.Getenv("ELASTIC_PWD"))
 	if err != nil {
 		log.Fatal(err)

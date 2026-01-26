@@ -1,7 +1,7 @@
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 15 * * *'
+    - cron: "0 15 * * *"
 
 jobs:
   # NOTE: this is the importer from the legacy publiccode-crawler,
@@ -20,5 +20,6 @@ jobs:
           head pec.txt &&
           go run main.go
         env:
-          ELASTIC_USER: elastic
+          ELASTIC_URL: ${{ vars.ELASTIC_URL }}
+          ELASTIC_USER: ${{ secrets.ELASTIC_USER }}
           ELASTIC_PWD: ${{ secrets.ELASTIC_PWD }}
