@@ -1001,6 +1001,10 @@
     name: Andrea Stagi
     avatar_url: https://avatars.githubusercontent.com/u/537363?v=4
     html_url: https://github.com/astagi
+  - login: Fupete
+    name: Daniele T.
+    avatar_url: https://avatars.githubusercontent.com/u/6736103?v=4
+    html_url: https://github.com/Fupete
   - login: pnicolli
     name: Piero Nicolli
     avatar_url: https://avatars.githubusercontent.com/u/14176608?v=4
@@ -1013,6 +1017,10 @@
     name: Giulia Ghisini
     avatar_url: https://avatars.githubusercontent.com/u/51911425?v=4
     html_url: https://github.com/giuliaghisini
+  - login: danielenole
+    name: Daniele Nolè
+    avatar_url: https://avatars.githubusercontent.com/u/102873965?v=4
+    html_url: https://github.com/danielenole
 - name: LLGG-IT-Wallet
   id: 11210514
   node_id: T_kwDOAOqloM4Aqw8S
