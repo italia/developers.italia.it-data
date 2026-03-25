@@ -385,6 +385,14 @@
     name:
     avatar_url: https://avatars.githubusercontent.com/u/263695863?v=4
     html_url: https://github.com/beacio
+  - login: nrossi9
+    name:
+    avatar_url: https://avatars.githubusercontent.com/u/270981027?v=4
+    html_url: https://github.com/nrossi9
+  - login: martalucivero
+    name:
+    avatar_url: https://avatars.githubusercontent.com/u/270984243?v=4
+    html_url: https://github.com/martalucivero
 - name: Designers Triage
   id: 7042944
   node_id: T_kwDOAOqloM4Aa3eA
