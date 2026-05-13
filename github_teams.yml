@@ -1268,3 +1268,35 @@
     name:
     avatar_url: https://avatars.githubusercontent.com/u/53568596?v=4
     html_url: https://github.com/AntonioFlorio
+- name: Supercrawler
+  id: 17519000
+  node_id: T_kwDOAOqloM4BC1GY
+  slug: supercrawler
+  description: ''
+  privacy: closed
+  notification_setting: notifications_enabled
+  url: https://api.github.com/organizations/15377824/team/17519000
+  html_url: https://github.com/orgs/italia/teams/supercrawler
+  members_url: https://api.github.com/organizations/15377824/team/17519000/members{/member}
+  repositories_url: https://api.github.com/organizations/15377824/team/17519000/repos
+  type: organization
+  organization_id: 15377824
+  permission: pull
+  parent:
+  members:
+  - login: francescozaia
+    name: Francesco Zaia
+    avatar_url: https://avatars.githubusercontent.com/u/481084?v=4
+    html_url: https://github.com/francescozaia
+  - login: tensor5
+    name: Nicola Squartini
+    avatar_url: https://avatars.githubusercontent.com/u/1545895?v=4
+    html_url: https://github.com/tensor5
+  - login: AssistRende
+    name:
+    avatar_url: https://avatars.githubusercontent.com/u/227963805?v=4
+    html_url: https://github.com/AssistRende
+  - login: eli-dis
+    name:
+    avatar_url: https://avatars.githubusercontent.com/u/263922335?v=4
+    html_url: https://github.com/eli-dis
