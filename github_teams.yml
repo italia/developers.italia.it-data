@@ -14,11 +14,7 @@
   organization_id: 15377824
   permission: pull
   parent:
-  members:
-  - login: alranel
-    name: Alessandro Ranellucci
-    avatar_url: https://avatars.githubusercontent.com/u/594957?v=4
-    html_url: https://github.com/alranel
+  members: []
 - name: ANPR
   id: 2263028
   node_id: MDQ6VGVhbTIyNjMwMjg=
@@ -209,10 +205,6 @@
   permission: pull
   parent:
   members:
-  - login: luciopileggi
-    name: Lucio Pileggi
-    avatar_url: https://avatars.githubusercontent.com/u/265532?v=4
-    html_url: https://github.com/luciopileggi
   - login: dptdgi
     name: Daniele Pizzolli
     avatar_url: https://avatars.githubusercontent.com/u/98891499?v=4
