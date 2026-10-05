@@ -1,4 +1,23 @@
 ---
+- login: 8543-ipzs
+  id: 221346462
+  node_id: U_kgDODTF6ng
+  avatar_url: https://avatars.githubusercontent.com/u/221346462?v=4
+  gravatar_id: ''
+  url: https://api.github.com/users/8543-ipzs
+  html_url: https://github.com/8543-ipzs
+  followers_url: https://api.github.com/users/8543-ipzs/followers
+  following_url: https://api.github.com/users/8543-ipzs/following{/other_user}
+  gists_url: https://api.github.com/users/8543-ipzs/gists{/gist_id}
+  starred_url: https://api.github.com/users/8543-ipzs/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/8543-ipzs/subscriptions
+  organizations_url: https://api.github.com/users/8543-ipzs/orgs
+  repos_url: https://api.github.com/users/8543-ipzs/repos
+  events_url: https://api.github.com/users/8543-ipzs/events{/privacy}
+  received_events_url: https://api.github.com/users/8543-ipzs/received_events
+  type: User
+  user_view_type: public
+  site_admin: false
 - login: afilini
   id: 3058409
   node_id: MDQ6VXNlcjMwNTg0MDk=
@@ -870,25 +889,6 @@
   repos_url: https://api.github.com/users/ma82/repos
   events_url: https://api.github.com/users/ma82/events{/privacy}
   received_events_url: https://api.github.com/users/ma82/received_events
-  type: User
-  user_view_type: public
-  site_admin: false
-- login: manpace
-  id: 221346462
-  node_id: U_kgDODTF6ng
-  avatar_url: https://avatars.githubusercontent.com/u/221346462?v=4
-  gravatar_id: ''
-  url: https://api.github.com/users/manpace
-  html_url: https://github.com/manpace
-  followers_url: https://api.github.com/users/manpace/followers
-  following_url: https://api.github.com/users/manpace/following{/other_user}
-  gists_url: https://api.github.com/users/manpace/gists{/gist_id}
-  starred_url: https://api.github.com/users/manpace/starred{/owner}{/repo}
-  subscriptions_url: https://api.github.com/users/manpace/subscriptions
-  organizations_url: https://api.github.com/users/manpace/orgs
-  repos_url: https://api.github.com/users/manpace/repos
-  events_url: https://api.github.com/users/manpace/events{/privacy}
-  received_events_url: https://api.github.com/users/manpace/received_events
   type: User
   user_view_type: public
   site_admin: false
