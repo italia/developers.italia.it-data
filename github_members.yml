@@ -569,6 +569,25 @@
   type: User
   user_view_type: public
   site_admin: false
+- login: Fupete
+  id: 6736103
+  node_id: MDQ6VXNlcjY3MzYxMDM=
+  avatar_url: https://avatars.githubusercontent.com/u/6736103?v=4
+  gravatar_id: ''
+  url: https://api.github.com/users/Fupete
+  html_url: https://github.com/Fupete
+  followers_url: https://api.github.com/users/Fupete/followers
+  following_url: https://api.github.com/users/Fupete/following{/other_user}
+  gists_url: https://api.github.com/users/Fupete/gists{/gist_id}
+  starred_url: https://api.github.com/users/Fupete/starred{/owner}{/repo}
+  subscriptions_url: https://api.github.com/users/Fupete/subscriptions
+  organizations_url: https://api.github.com/users/Fupete/orgs
+  repos_url: https://api.github.com/users/Fupete/repos
+  events_url: https://api.github.com/users/Fupete/events{/privacy}
+  received_events_url: https://api.github.com/users/Fupete/received_events
+  type: User
+  user_view_type: public
+  site_admin: false
 - login: GiandonatoGreco
   id: 102388751
   node_id: U_kgDOBhpUDw
